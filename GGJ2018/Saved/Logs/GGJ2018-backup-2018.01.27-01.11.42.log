@@ -1,0 +1,939 @@
+﻿Log file open, 01/27/18 00:38:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1687851298) SRandInit(-1687851298).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191532
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.26-21.38.42:959][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-21.38.42:959][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.26-21.38.42:975][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.26-21.38.42:975][  0]LogInit: User: Wheatley
+[2018.01.26-21.38.42:975][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.26-21.38.42:975][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.26-21.38.42:976][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.26-21.38.42:976][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.26-21.38.42:976][  0]LogMemory: Process Physical Memory: 273.30 MB used, 273.30 MB peak
+[2018.01.26-21.38.42:976][  0]LogMemory: Process Virtual Memory: 271.78 MB used, 271.78 MB peak
+[2018.01.26-21.38.42:976][  0]LogMemory: Physical Memory: 3154.61 MB used,  4953.74 MB free, 8108.36 MB total
+[2018.01.26-21.38.42:976][  0]LogMemory: Virtual Memory: 646.13 MB used,  4953.74 MB free, 134217728.00 MB total
+[2018.01.26-21.38.43:178][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.26-21.38.43:178][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.26-21.38.43:182][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.26-21.38.43:182][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.26-21.38.43:709][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.26-21.38.44:002][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.26-21.38.44:022][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 11_0)
+[2018.01.26-21.38.44:022][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.26-21.38.44:027][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.01.26-21.38.44:027][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.26-21.38.44:029][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.26-21.38.44:029][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.26-21.38.44:029][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.26-21.38.44:036][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.26-21.38.44:036][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.26-21.38.44:036][  0]LogWindows: EnumDisplayDevices:
+[2018.01.26-21.38.44:036][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.26-21.38.44:036][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.26-21.38.44:036][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.26-21.38.44:036][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:037][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:037][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:037][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:037][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:038][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:038][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:038][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:038][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:039][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:039][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:039][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:039][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:040][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:040][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:040][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-21.38.44:040][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.26-21.38.44:040][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.26-21.38.44:040][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.26-21.38.44:040][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.26-21.38.44:040][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.26-21.38.44:078][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.26-21.38.44:091][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.26-21.38.44:091][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/7680/).
+[2018.01.26-21.38.44:091][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/759535984D5D22EB96ABA282E23604F2/'.
+[2018.01.26-21.38.44:092][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.26-21.38.45:284][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.26-21.38.45:338][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.26-21.38.45:392][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.26-21.38.45:453][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.26-21.38.45:511][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.26-21.38.45:565][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.26-21.38.45:620][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.26-21.38.45:674][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.26-21.38.45:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.26-21.38.45:775][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.26-21.38.45:837][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.26-21.38.45:903][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.26-21.38.45:956][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.26-21.38.46:009][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.26-21.38.46:114][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.26-21.38.46:115][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.26-21.38.46:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.26-21.38.46:210][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.26-21.38.46:316][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.26-21.38.46:356][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.26-21.38.46:414][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.26-21.38.46:467][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.26-21.38.46:524][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.26-21.38.46:579][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.26-21.38.46:579][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.26-21.38.47:076][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.26-21.38.47:194][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.26-21.38.47:217][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.26-21.38.47:229][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.26-21.38.47:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.26-21.38.47:244][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.26-21.38.47:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-21.38.47:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-21.38.47:787][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-21.38.48:168][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.26-21.38.48:206][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.26-21.38.48:206][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.26-21.38.48:206][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.26-21.38.48:206][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.26-21.38.48:206][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.26-21.38.48:237][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.26-21.38.48:424][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.01.26-21.38.49:031][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.046334 seconds
+[2018.01.26-21.38.49:038][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.26-21.38.49:038][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.26-21.38.49:038][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.26-21.38.49:089][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.26-21.38.52:157][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.26-21.38.52:201][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.26-21.38.52:914][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.26-21.38.53:350][  0]SourceControl: Source control is disabled
+[2018.01.26-21.38.53:351][  0]SourceControl: Source control is disabled
+[2018.01.26-21.38.53:396][  0]SourceControl: Source control is disabled
+[2018.01.26-21.38.53:435][  0]SourceControl: Source control is disabled
+[2018.01.26-21.38.54:111][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.26-21.38.54:324][  0]LogOcInput: OculusInput pre-init called
+[2018.01.26-21.38.54:566][  0]LogEngine: Initializing Engine...
+[2018.01.26-21.38.54:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.26-21.38.54:789][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.26-21.38.54:789][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.26-21.38.54:884][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.26-21.38.54:890][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.38.54:927][  0]LogInit: FAudioDevice initialized.
+[2018.01.26-21.38.55:006][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-21.38.55:024][  0]LogInit: Texture streaming: Enabled
+[2018.01.26-21.38.55:100][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.26-21.38.55:100][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DEBFF6D5-4D8D-4FA5-5126-27A2702F4024}
+[2018.01.26-21.38.55:200][  0]LogInit: Transaction tracking system initialized
+[2018.01.26-21.38.55:444][  0]BlueprintLog: New page: Editor Load
+[2018.01.26-21.38.56:145][  0]LocalizationService: Localization service is disabled
+[2018.01.26-21.38.56:740][  0]LogConsoleResponse: Display: 
+[2018.01.26-21.38.56:900][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.26-21.38.56:900][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.26-21.38.56:900][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.26-21.38.57:479][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.26-21.38.57:871][  0]SourceControl: Source control is disabled
+[2018.01.26-21.38.57:871][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-21.38.57:871][  0]LightingResults: New page: Lighting Build
+[2018.01.26-21.38.57:902][  0]MapCheck: New page: Map Check
+[2018.01.26-21.38.57:902][  0]LightingResults: New page: Lighting Build
+[2018.01.26-21.38.58:487][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.38.58:508][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-21.38.58:521][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-21.38.58:562][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.305ms to complete.
+[2018.01.26-21.38.58:562][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.692
+[2018.01.26-21.38.58:623][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.26-21.38.58:692][  0]LogCollectionManager: Loaded 0 collections in 0.001425 seconds
+[2018.01.26-21.38.58:758][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.26-21.38.58:759][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.26-21.38.58:759][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.26-21.38.58:759][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.26-21.38.58:767][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2363 classes and 519 folders.
+[2018.01.26-21.38.58:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.26-21.38.58:848][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.26-21.38.58:880][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.26-21.38.58:896][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-21.38.58:898][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.26-21.38.58:903][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.26-21.38.59:011][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-21.38.59:201][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.26-21.38.59:201][  0]LogLoad: (Engine Initialization) Total time: 18.93 seconds
+[2018.01.26-21.38.59:201][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.26-21.38.59:201][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.26-21.38.59:239][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.26-21.38.59:275][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-21.38.59:286][  1]LogAssetRegistry: Asset discovery search completed in 10.8844 seconds
+[2018.01.26-21.38.59:288][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.26-21.38.59:288][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.01.26-21.39.00:228][ 53]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-21.39.04:496][308]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-21.39.04:921][308]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.01.26-21.39.06:669][308]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.26-21.39.06:979][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.39.07:279][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.26-21.39.07:608][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.39.07:657][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.01.26-21.39.07:972][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.01.26-21.39.08:018][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.01.26-21.39.09:016][308]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.26-21.39.09:326][308]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.26-21.39.09:332][308]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.26-21.39.09:360][309]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.26-21.39.13:988][528]LogRenderer: Reallocating scene render targets to support 808x616 Format 10 NumSamples 1 (Frame:40).
+[2018.01.26-21.39.59:225][172]LogHttp: Warning: 000001770F7EAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.39.59:225][172]LogHttp: Warning: 000001770F7EAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.39.59:225][172]LogHttp: Warning: 000001770F7EAB00: libcurl info message cache 1 (Closing connection 0)
+[2018.01.26-21.40.03:660][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/BT_Boss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset" SILENT=true
+[2018.01.26-21.40.03:786][435]LogSavePackage: Save=114.54ms
+[2018.01.26-21.40.03:786][435]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/BT_Boss5FF5C92A469D6CFC27F76A8428E5BEB8.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset'
+[2018.01.26-21.40.03:789][435]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset
+[2018.01.26-21.40.08:171][698]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.40.08:288][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.08:291][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.40.08:292][698]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:40:08 AM)
+[2018.01.26-21.40.08:292][698]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.40.08:315][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022819s)
+[2018.01.26-21.40.08:316][698]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.40.08:316][698]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.01.26-21.40.08:316][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024169s)
+[2018.01.26-21.40.08:338][698]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.40.08:356][698]LogInit: FAudioDevice initialized.
+[2018.01.26-21.40.08:405][698]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.40.08:407][698]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.40.08
+[2018.01.26-21.40.08:408][698]LogWorld: Bringing up level for play took: 0.002431
+[2018.01.26-21.40.08:440][698]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.26-21.40.08:441][698]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.708
+[2018.01.26-21.40.08:441][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.12:629][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.12:690][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.15:303][101]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.40.15:327][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.15:331][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.40.15:331][101]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:40:15 AM)
+[2018.01.26-21.40.15:332][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.40.15:359][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027468s)
+[2018.01.26-21.40.15:360][101]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.40.15:360][101]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2018.01.26-21.40.15:361][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029142s)
+[2018.01.26-21.40.15:403][101]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.40.15:435][101]LogInit: FAudioDevice initialized.
+[2018.01.26-21.40.15:515][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.40.15:518][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.40.15
+[2018.01.26-21.40.15:518][101]LogWorld: Bringing up level for play took: 0.002625
+[2018.01.26-21.40.15:520][101]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.372
+[2018.01.26-21.40.15:520][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.19:303][323]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.19:420][330]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.19:536][337]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.19:653][344]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.29:204][917]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.29:320][924]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.29:854][956]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.29:954][962]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:070][969]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:187][976]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:287][982]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:420][990]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:537][997]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.30:653][  4]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.31:037][ 27]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.31:136][ 33]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.31:254][ 40]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.33:570][179]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.33:687][186]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.33:803][193]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.33:920][200]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.34:036][207]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.35:137][273]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.35:504][295]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.35:621][302]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.35:754][310]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.35:871][317]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:003][325]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:120][332]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:254][340]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:370][347]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:504][355]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:637][363]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.36:753][370]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.37:004][385]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.37:120][392]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.37:254][400]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.37:354][406]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.37:470][413]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.45:837][915]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.46:189][936]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.46:405][949]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.46:571][959]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.46:738][969]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.46:904][979]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:055][988]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:189][996]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:321][  4]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:471][ 13]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:621][ 22]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:738][ 29]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.47:970][ 43]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:087][ 50]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:221][ 58]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:354][ 66]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:471][ 73]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:604][ 81]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:720][ 88]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.48:838][ 95]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:088][110]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:204][117]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:338][125]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:471][133]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:588][140]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:704][147]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:821][154]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.49:921][160]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:037][167]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:137][173]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:254][180]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:355][186]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:471][193]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:571][199]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:688][206]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:788][212]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.50:904][219]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:221][238]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:321][244]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:438][251]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:638][263]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:755][270]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:871][277]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.51:971][283]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.52:088][290]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.52:205][297]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.52:321][304]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.52:438][311]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.56:921][580]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:037][587]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:171][595]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:287][602]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:421][610]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:554][618]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:671][625]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.57:804][633]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.58:054][648]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.58:171][655]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.58:405][669]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.40.58:539][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.40.58:580][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.41.26:145][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/A_ShockwaveProjectile" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset" SILENT=true
+[2018.01.26-21.41.26:393][791]LogSavePackage: Save=187.08ms
+[2018.01.26-21.41.26:393][791]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_ShockwaveProjectile4ABA9BBB4AB29208BE55C28B6B654D9E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset'
+[2018.01.26-21.41.26:397][791]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset
+[2018.01.26-21.41.26:860][819]BlueprintLog: New page: Compile A_ShockwaveProjectile
+[2018.01.26-21.41.27:625][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/A_ShockwaveProjectile" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset" SILENT=true
+[2018.01.26-21.41.27:742][836]LogSavePackage: Save=109.10ms
+[2018.01.26-21.41.27:742][836]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_ShockwaveProjectile8C1D7E55457A98350332BB914A4D1BAB.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset'
+[2018.01.26-21.41.27:743][836]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/A_ShockwaveProjectile.uasset
+[2018.01.26-21.41.29:076][915]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.41.29:103][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.41.29:107][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.41.29:107][915]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:41:29 AM)
+[2018.01.26-21.41.29:108][915]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.41.29:136][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028793s)
+[2018.01.26-21.41.29:138][915]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.41.29:138][915]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.01.26-21.41.29:138][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030676s)
+[2018.01.26-21.41.29:166][915]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.41.29:186][915]LogInit: FAudioDevice initialized.
+[2018.01.26-21.41.29:218][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.41.29:221][915]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.41.29
+[2018.01.26-21.41.29:221][915]LogWorld: Bringing up level for play took: 0.002695
+[2018.01.26-21.41.29:223][915]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.075
+[2018.01.26-21.41.29:223][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.41.38:741][482]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.38:858][489]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.38:957][495]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.39:074][502]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.39:174][508]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.39:291][515]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.39:407][522]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.39:508][528]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.43:792][784]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.43:909][791]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:025][798]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:275][813]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:409][821]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:526][828]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:659][836]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:776][843]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.44:909][851]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.45:026][858]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:225][110]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:342][117]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:442][123]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:559][130]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:675][137]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.49:776][143]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.41.59:250][712]LogHttp: Warning: 000001770807AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.41.59:250][712]LogHttp: Warning: 000001770807AB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.41.59:250][712]LogHttp: Warning: 000001770807AB00: libcurl info message cache 1 (Closing connection 1)
+[2018.01.26-21.42.00:042][759]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:159][766]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:259][772]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:376][779]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:476][785]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:809][805]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.00:926][812]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.01:043][819]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.01:159][826]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.01:276][833]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.01:392][840]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:243][ 11]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:359][ 18]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:493][ 26]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:609][ 33]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:743][ 41]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:859][ 48]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.04:992][ 56]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.05:109][ 63]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.05:243][ 71]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.08:909][291]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.09:026][298]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.09:126][304]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.09:242][311]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.09:343][317]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.09:460][324]LogBlueprintUserMessages: [A_TestBoss_87] Arm
+[2018.01.26-21.42.12:177][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.42.12:223][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.44.03:237][144]LogHttp: Warning: 00000177D7852200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.44.03:237][144]LogHttp: Warning: 00000177D7852200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.44.03:237][144]LogHttp: Warning: 00000177D7852200: libcurl info message cache 1 (Closing connection 2)
+[2018.01.26-21.46.03:283][333]LogHttp: Warning: 00000177D7FB6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.46.03:284][333]LogHttp: Warning: 00000177D7FB6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.46.03:284][333]LogHttp: Warning: 00000177D7FB6B00: libcurl info message cache 1 (Closing connection 3)
+[2018.01.26-21.48.03:337][536]LogHttp: Warning: 00000177D7FD3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.48.03:337][536]LogHttp: Warning: 00000177D7FD3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.48.03:337][536]LogHttp: Warning: 00000177D7FD3280: libcurl info message cache 1 (Closing connection 4)
+[2018.01.26-21.50.03:357][737]LogHttp: Warning: 00000177D7FD3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.50.03:357][737]LogHttp: Warning: 00000177D7FD3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.50.03:357][737]LogHttp: Warning: 00000177D7FD3280: libcurl info message cache 1 (Closing connection 5)
+[2018.01.26-21.51.54:869][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/BT_Boss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset" SILENT=true
+[2018.01.26-21.51.55:200][424]LogSavePackage: Save=18.01ms
+[2018.01.26-21.51.55:200][424]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/BT_Boss0CA995BA475418D5BD2BD48A0A8D8BDC.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset'
+[2018.01.26-21.51.55:204][424]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset
+[2018.01.26-21.52.03:396][909]LogHttp: Warning: 00000177CDC31300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.52.03:396][909]LogHttp: Warning: 00000177CDC31300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.52.03:396][909]LogHttp: Warning: 00000177CDC31300: libcurl info message cache 1 (Closing connection 6)
+[2018.01.26-21.52.42:924][181]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.26-21.52.43:285][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.52.43:287][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.52.43:293][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.01.26-21.53.45:637][858]LogSavePackage: Save=261.03ms
+[2018.01.26-21.53.45:637][858]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap55973FB04AFD31A7CBFEE885F5DC3A59.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-21.53.45:641][858]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-21.53.45:698][858]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-21.53.45:702][858]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.837
+[2018.01.26-21.53.45:745][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.53.45:872][858]LogSavePackage: Save=115.97ms
+[2018.01.26-21.53.45:872][858]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss2C1CDEF14FE7AF833EE6EFBBBA346449.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.53.45:875][858]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.53.45:920][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Meshes/Boss/Animations/AM_Attack1" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack1.uasset" SILENT=true
+[2018.01.26-21.53.45:946][858]LogSavePackage: Save=15.36ms
+[2018.01.26-21.53.45:946][858]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/AM_Attack1B0DCE1054E6519740345B9A34B3AD0BD.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack1.uasset'
+[2018.01.26-21.53.45:950][858]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack1.uasset
+[2018.01.26-21.54.03:453][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.54.03:596][671]LogSavePackage: Save=135.31ms
+[2018.01.26-21.54.03:596][671]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossFABDD2054E9AFDE9AEC7F4876D6DFF68.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.54.03:599][671]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.54.03:635][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Meshes/Boss/Animations/AM_Attack2" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset" SILENT=true
+[2018.01.26-21.54.03:667][671]LogSavePackage: Save=29.23ms
+[2018.01.26-21.54.03:667][671]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/AM_Attack2D63380F4431B86F3628C259156CAB5AF.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset'
+[2018.01.26-21.54.03:670][671]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset
+[2018.01.26-21.54.13:929][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.54.14:077][214]LogSavePackage: Save=140.38ms
+[2018.01.26-21.54.14:077][214]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss300170484288CD99146619BA185F88F8.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.54.14:080][214]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.54.15:667][310]LogHttp: Warning: 00000177B4932C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.54.15:668][310]LogHttp: Warning: 00000177B4932C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.54.15:668][310]LogHttp: Warning: 00000177B4932C80: libcurl info message cache 1 (Closing connection 7)
+[2018.01.26-21.54.32:265][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.54.32:418][272]LogSavePackage: Save=145.69ms
+[2018.01.26-21.54.32:418][272]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss2292E7644EE3E589F112169658C750D9.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.54.32:422][272]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.54.32:854][298]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-21.54.33:839][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.54.33:991][316]LogSavePackage: Save=144.60ms
+[2018.01.26-21.54.33:991][316]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossC62B572E4B78AB13F24CF4B2AB51A254.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.54.33:993][316]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.54.34:819][338]LogSavePackage: Save=310.10ms
+[2018.01.26-21.54.34:819][338]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap69EC3AA543C026FB08D7C796BE84E4DB.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-21.54.34:823][338]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-21.54.34:860][338]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.450
+[2018.01.26-21.54.36:122][414]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.54.36:179][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.54.36:183][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.54.36:184][414]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:54:36 AM)
+[2018.01.26-21.54.36:184][414]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.54.36:214][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029762s)
+[2018.01.26-21.54.36:215][414]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.54.36:215][414]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2018.01.26-21.54.36:216][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031831s)
+[2018.01.26-21.54.36:245][414]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.54.36:266][414]LogInit: FAudioDevice initialized.
+[2018.01.26-21.54.36:299][414]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.54.36:302][414]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.54.36
+[2018.01.26-21.54.36:302][414]LogWorld: Bringing up level for play took: 0.002823
+[2018.01.26-21.54.36:304][414]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.156
+[2018.01.26-21.54.36:305][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.54.39:254][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.54.39:294][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.54.50:282][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.54.50:412][236]LogSavePackage: Save=121.94ms
+[2018.01.26-21.54.50:412][236]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss02A3AC2E4C19E06D5C617C813F95DFC9.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.54.50:416][236]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.55.22:528][147]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.22:528][147]LogEditorTransaction: Undo Move Node
+[2018.01.26-21.55.22:765][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.22:766][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.38:603][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/BT_Boss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset" SILENT=true
+[2018.01.26-21.55.38:923][ 94]LogSavePackage: Save=16.87ms
+[2018.01.26-21.55.38:923][ 94]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/BT_Boss10611A844D72263A1E693C8A01732F15.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset'
+[2018.01.26-21.55.38:927][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset
+[2018.01.26-21.55.42:602][315]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.42:602][315]LogEditorTransaction: Undo Move Node
+[2018.01.26-21.55.42:827][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.42:828][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.43:180][336]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.43:180][336]LogEditorTransaction: Undo Move Node
+[2018.01.26-21.55.43:422][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.43:423][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.43:521][342]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.43:521][342]LogEditorTransaction: Undo Add Node
+[2018.01.26-21.55.43:763][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.43:764][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.43:765][342]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.43:765][342]LogEditorTransaction: Undo Move Node
+[2018.01.26-21.55.43:992][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.43:993][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.44:289][360]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.44:289][360]LogEditorTransaction: Undo Create Pin Link
+[2018.01.26-21.55.44:529][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.44:530][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.44:849][379]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.44:849][379]LogEditorTransaction: Undo Move Node
+[2018.01.26-21.55.45:080][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.45:081][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.45:479][403]Cmd: TRANSACTION UNDO
+[2018.01.26-21.55.45:479][403]LogEditorTransaction: Undo Add Node
+[2018.01.26-21.55.45:702][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-21.55.45:703][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.26-21.55.48:368][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/BT_Boss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset" SILENT=true
+[2018.01.26-21.55.48:481][561]LogSavePackage: Save=107.23ms
+[2018.01.26-21.55.48:481][561]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/BT_BossCEA585054784B475C350CE9B44E86ACF.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset'
+[2018.01.26-21.55.48:485][561]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset
+[2018.01.26-21.55.52:047][775]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.55.52:074][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.55.52:079][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.55.52:079][775]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:55:52 AM)
+[2018.01.26-21.55.52:079][775]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.55.52:104][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024162s)
+[2018.01.26-21.55.52:105][775]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.55.52:105][775]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.01.26-21.55.52:105][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025645s)
+[2018.01.26-21.55.52:129][775]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.55.52:145][775]LogInit: FAudioDevice initialized.
+[2018.01.26-21.55.52:178][775]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.55.52:181][775]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.55.52
+[2018.01.26-21.55.52:181][775]LogWorld: Bringing up level for play took: 0.002442
+[2018.01.26-21.55.52:183][775]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.034
+[2018.01.26-21.55.52:183][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.11:524][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.11:600][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.27:640][866]LogHttp: Warning: 00000177CE36E680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.56.27:640][866]LogHttp: Warning: 00000177CE36E680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.56.27:640][866]LogHttp: Warning: 00000177CE36E680: libcurl info message cache 1 (Closing connection 8)
+[2018.01.26-21.56.38:089][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.01.26-21.56.38:121][437]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.01.26-21.56.38:646][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.26-21.56.43:401][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Meshes/Boss/Animations/AM_Attack2" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset" SILENT=true
+[2018.01.26-21.56.43:560][707]LogSavePackage: Save=45.28ms
+[2018.01.26-21.56.43:560][707]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/AM_Attack2A69C3FE94E2BDF256E3B99B40AFAFA6E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset'
+[2018.01.26-21.56.43:561][707]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Meshes/Boss/Animations/AM_Attack2.uasset
+[2018.01.26-21.56.53:525][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.56.53:553][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.53:558][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.56.53:558][207]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:56:53 AM)
+[2018.01.26-21.56.53:558][207]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.56.53:589][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030785s)
+[2018.01.26-21.56.53:590][207]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.56.53:590][207]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2018.01.26-21.56.53:590][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032153s)
+[2018.01.26-21.56.53:621][207]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.56.53:641][207]LogInit: FAudioDevice initialized.
+[2018.01.26-21.56.53:677][207]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.56.53:680][207]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.56.53
+[2018.01.26-21.56.53:681][207]LogWorld: Bringing up level for play took: 0.002710
+[2018.01.26-21.56.53:683][207]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.535
+[2018.01.26-21.56.53:683][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.56:288][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.56.56:362][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.57.34:526][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.57.34:984][578]LogSavePackage: Save=151.85ms
+[2018.01.26-21.57.34:984][578]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss1C9058A447FAA02E2A1EEB808ECF5F41.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.57.34:988][578]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.57.35:286][596]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-21.57.35:957][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.57.36:102][596]LogSavePackage: Save=137.88ms
+[2018.01.26-21.57.36:102][596]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossF589DC30496656D64D57F281428DFB46.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.57.36:104][596]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.57.36:454][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-21.57.36:583][615]LogSavePackage: Save=121.39ms
+[2018.01.26-21.57.36:583][615]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss44FC8BD847AE62045FCAADB58B474B5E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-21.57.36:584][615]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-21.57.37:654][652]LogSavePackage: Save=315.20ms
+[2018.01.26-21.57.37:654][652]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMapF4D01399443326746F73F0A17DF0622C.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-21.57.37:659][652]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-21.57.37:703][652]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.462
+[2018.01.26-21.57.37:982][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.57.38:046][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.57.38:050][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.57.38:050][669]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 3:57:38 AM)
+[2018.01.26-21.57.38:050][669]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-21.57.38:071][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020974s)
+[2018.01.26-21.57.38:072][669]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-21.57.38:073][669]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.01.26-21.57.38:073][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022288s)
+[2018.01.26-21.57.38:102][669]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-21.57.38:122][669]LogInit: FAudioDevice initialized.
+[2018.01.26-21.57.38:154][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-21.57.38:157][669]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-00.57.38
+[2018.01.26-21.57.38:158][669]LogWorld: Bringing up level for play took: 0.002828
+[2018.01.26-21.57.38:160][669]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.012
+[2018.01.26-21.57.38:160][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.58.30:985][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.58.31:027][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-21.58.39:618][344]LogHttp: Warning: 00000177CDEEB400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-21.58.39:618][344]LogHttp: Warning: 00000177CDEEB400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-21.58.39:618][344]LogHttp: Warning: 00000177CDEEB400: libcurl info message cache 1 (Closing connection 9)
+[2018.01.26-22.00.39:638][545]LogHttp: Warning: 0000017710009180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.00.39:638][545]LogHttp: Warning: 0000017710009180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.00.39:638][545]LogHttp: Warning: 0000017710009180: libcurl info message cache 1 (Closing connection 10)
+[2018.01.26-22.02.39:683][692]LogHttp: Warning: 00000177CDEE9780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.02.39:683][692]LogHttp: Warning: 00000177CDEE9780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.02.39:683][692]LogHttp: Warning: 00000177CDEE9780: libcurl info message cache 1 (Closing connection 11)
+[2018.01.26-22.03.40:034][312]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-22.03.40:059][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.03.40:063][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-22.03.40:063][312]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 4:03:40 AM)
+[2018.01.26-22.03.40:063][312]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-22.03.40:087][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024039s)
+[2018.01.26-22.03.40:088][312]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-22.03.40:088][312]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.01.26-22.03.40:088][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025409s)
+[2018.01.26-22.03.40:115][312]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-22.03.40:131][312]LogInit: FAudioDevice initialized.
+[2018.01.26-22.03.40:159][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-22.03.40:162][312]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-01.03.40
+[2018.01.26-22.03.40:163][312]LogWorld: Bringing up level for play took: 0.002302
+[2018.01.26-22.03.40:164][312]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.016
+[2018.01.26-22.03.40:164][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.04.51:668][597]LogHttp: Warning: 00000177B97BE380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.04.51:668][597]LogHttp: Warning: 00000177B97BE380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.04.51:668][597]LogHttp: Warning: 00000177B97BE380: libcurl info message cache 1 (Closing connection 12)
+[2018.01.26-22.07.03:643][513]LogHttp: Warning: 00000177B97BE200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.07.03:643][513]LogHttp: Warning: 00000177B97BE200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.07.03:643][513]LogHttp: Warning: 00000177B97BE200: libcurl info message cache 1 (Closing connection 13)
+[2018.01.26-22.07.04:453][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.07.04:497][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.07.06:630][678]LogEditorViewport: Clicking on Actor (LMB): A_TestBoss_C (A_TestBoss)
+[2018.01.26-22.09.03:674][683]LogHttp: Warning: 00000177D8DC1D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.09.03:674][683]LogHttp: Warning: 00000177D8DC1D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.09.03:675][683]LogHttp: Warning: 00000177D8DC1D80: libcurl info message cache 1 (Closing connection 14)
+[2018.01.26-22.09.44:935][841]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.26-22.09.44:938][841]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.09.45:152][841]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.09.47:121][949]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.26-22.09.47:121][949]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.26-22.09.47:121][949]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.26-22.09.47:121][949]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.26-22.09.47:284][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/BT_Boss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset" SILENT=true
+[2018.01.26-22.09.47:336][956]LogSavePackage: Save=31.72ms
+[2018.01.26-22.09.47:336][956]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/BT_BossC0C2356042BEE3DF940F3A8D0540C61F.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset'
+[2018.01.26-22.09.47:340][956]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/BT_Boss.uasset
+[2018.01.26-22.09.47:377][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_WeakSpot" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_WeakSpot.uasset" SILENT=true
+[2018.01.26-22.09.47:405][956]LogSavePackage: Save=25.56ms
+[2018.01.26-22.09.47:405][956]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_WeakSpotEAD84DD4489659E3F29E63AB5B22DC56.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_WeakSpot.uasset'
+[2018.01.26-22.09.47:408][956]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_WeakSpot.uasset
+[2018.01.26-22.10.47:179][679]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.10.47:224][679]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.10.50:485][858]MaterialEditorStats: Base pass shader: 44 instructions
+[2018.01.26-22.10.50:485][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 65 instructions
+[2018.01.26-22.10.50:485][858]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.10.50:485][858]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.10.53:338][ 29]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.10.53:360][ 29]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.10.54:569][ 96]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.26-22.10.54:569][ 96]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.10.54:569][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.11.05:503][748]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.11.05:515][748]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.26-22.11.06:668][814]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.26-22.11.06:668][814]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.11.06:668][814]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.11.07:121][841]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.11.07:138][841]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.26-22.11.08:195][903]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.26-22.11.08:195][903]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.11.08:195][903]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.11.09:395][963]LogHttp: Warning: 000001780EFDF580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.26-22.11.09:395][963]LogHttp: Warning: 000001780EFDF580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.26-22.11.09:395][963]LogHttp: Warning: 000001780EFDF580: libcurl info message cache 1 (Closing connection 15)
+[2018.01.26-22.11.14:376][261]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.11.14:396][261]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.26-22.11.15:430][319]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.26-22.11.15:430][319]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.11.15:430][319]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.11.36:905][600]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.11.38:214][676]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.26-22.11.38:214][676]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.26-22.11.38:214][676]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.26-22.11.39:285][739]LogMaterial: Missing cached shader map for material M_WeakSpot, compiling. 
+[2018.01.26-22.11.39:844][769]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2018.01.26-22.11.39:845][769]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.01.26-22.11.40:680][769]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.01.26-22.11.40:680][769]LogWindows: Error: === Critical error: ===
+[2018.01.26-22.11.40:680][769]LogWindows: Error: 
+[2018.01.26-22.11.40:680][769]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 813] 
+[2018.01.26-22.11.40:680][769]LogWindows: Error: Rendering thread exception:
+[2018.01.26-22.11.40:680][769]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 182] 
+[2018.01.26-22.11.40:680][769]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0020 - 'INTERNAL_ERROR')
+[2018.01.26-22.11.40:680][769]LogWindows: Error: 
+[2018.01.26-22.11.40:680][769]LogWindows: Error: 
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x00000000AFEE9D98 KERNELBASE.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x000000009CC776D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x000000007D78330B UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x000000007D7147F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x00000000624079FF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x000000006240BBC0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x00000000623EB3FA UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x00000000623EB35E UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:680][769]LogWindows: Error: [Callstack] 0x00000000623F83E8 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x000000009E36E4F7 UE4Editor-RHI.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000621D0B45 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000621D60A9 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x000000007D5E4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x000000007D5E4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000A16F22C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000A16F32F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x000000007D98092C UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x000000007D972563 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000B3492774 KERNEL32.DLL!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000B35D0D51 ntdll.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: [Callstack] 0x00000000B35D0D51 ntdll.dll!UnknownFunction []
+[2018.01.26-22.11.40:681][769]LogWindows: Error: 
+[2018.01.26-22.11.40:681][769]LogWindows: Error: 
+[2018.01.26-22.11.40:681][769]LogWindows: Error: 
+[2018.01.26-22.11.40:681][769]LogWindows: Error: 
+[2018.01.26-22.11.40:699][769]LogExit: Executing StaticShutdownAfterError
+[2018.01.26-22.11.40:721][769]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.26-22.11.40:721][769]Log file closed, 01/27/18 01:11:40

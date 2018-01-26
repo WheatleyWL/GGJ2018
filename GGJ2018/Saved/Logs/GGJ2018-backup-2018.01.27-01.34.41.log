@@ -1,0 +1,793 @@
+﻿Log file open, 01/27/18 01:28:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(999588323) SRandInit(999588323).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197706
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.26-22.28.28:999][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-22.28.28:999][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.26-22.28.29:015][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.26-22.28.29:015][  0]LogInit: User: Wheatley
+[2018.01.26-22.28.29:015][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.26-22.28.29:015][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.26-22.28.29:015][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.26-22.28.29:015][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.26-22.28.29:015][  0]LogMemory: Process Physical Memory: 273.28 MB used, 273.28 MB peak
+[2018.01.26-22.28.29:015][  0]LogMemory: Process Virtual Memory: 271.77 MB used, 271.77 MB peak
+[2018.01.26-22.28.29:015][  0]LogMemory: Physical Memory: 3305.04 MB used,  4803.32 MB free, 8108.36 MB total
+[2018.01.26-22.28.29:015][  0]LogMemory: Virtual Memory: 646.13 MB used,  4803.32 MB free, 134217728.00 MB total
+[2018.01.26-22.28.29:214][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.26-22.28.29:214][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.26-22.28.29:218][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.26-22.28.29:218][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.26-22.28.29:770][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.26-22.28.30:059][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.26-22.28.30:079][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 11_0)
+[2018.01.26-22.28.30:079][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.26-22.28.30:085][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.01.26-22.28.30:085][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.26-22.28.30:086][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.26-22.28.30:086][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.26-22.28.30:086][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.26-22.28.30:093][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.26-22.28.30:093][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.26-22.28.30:093][  0]LogWindows: EnumDisplayDevices:
+[2018.01.26-22.28.30:094][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.26-22.28.30:094][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.26-22.28.30:094][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.26-22.28.30:094][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:094][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:095][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:095][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:095][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:095][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:096][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:096][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:096][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:096][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:097][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:097][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:097][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:097][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:098][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:098][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.26-22.28.30:098][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.26-22.28.30:098][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.26-22.28.30:098][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.26-22.28.30:098][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.26-22.28.30:098][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.26-22.28.30:133][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.26-22.28.30:145][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.26-22.28.30:145][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/1424/).
+[2018.01.26-22.28.30:145][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/B2DA7C534A8961D69CF4A1B02B73548C/'.
+[2018.01.26-22.28.30:146][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.26-22.28.31:431][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.26-22.28.31:495][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.26-22.28.31:565][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.26-22.28.31:625][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.26-22.28.31:680][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.26-22.28.31:744][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.26-22.28.31:807][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.26-22.28.31:864][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.26-22.28.31:916][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.26-22.28.31:970][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.26-22.28.32:023][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.26-22.28.32:080][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.26-22.28.32:132][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.26-22.28.32:184][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.26-22.28.32:290][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.26-22.28.32:290][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.26-22.28.32:343][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.26-22.28.32:386][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.26-22.28.32:479][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.26-22.28.32:510][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.26-22.28.32:563][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.26-22.28.32:616][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.26-22.28.32:669][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.26-22.28.32:722][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.26-22.28.32:722][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.26-22.28.33:222][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.26-22.28.33:348][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.26-22.28.33:376][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.26-22.28.33:388][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.26-22.28.33:403][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.26-22.28.33:403][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.26-22.28.33:404][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-22.28.33:404][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-22.28.33:908][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-22.28.34:317][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.26-22.28.34:357][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.26-22.28.34:357][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.26-22.28.34:357][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.26-22.28.34:357][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.26-22.28.34:357][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.26-22.28.34:395][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.26-22.28.34:589][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2018.01.26-22.28.35:183][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.035937 seconds
+[2018.01.26-22.28.35:190][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.26-22.28.35:190][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.26-22.28.35:190][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.26-22.28.35:248][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.26-22.28.38:513][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.26-22.28.38:548][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.26-22.28.39:197][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.26-22.28.39:554][  0]SourceControl: Source control is disabled
+[2018.01.26-22.28.39:554][  0]SourceControl: Source control is disabled
+[2018.01.26-22.28.39:594][  0]SourceControl: Source control is disabled
+[2018.01.26-22.28.39:637][  0]SourceControl: Source control is disabled
+[2018.01.26-22.28.40:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.26-22.28.40:555][  0]LogOcInput: OculusInput pre-init called
+[2018.01.26-22.28.40:799][  0]LogEngine: Initializing Engine...
+[2018.01.26-22.28.40:801][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.26-22.28.41:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.26-22.28.41:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.26-22.28.41:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.26-22.28.41:141][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-22.28.41:179][  0]LogInit: FAudioDevice initialized.
+[2018.01.26-22.28.41:258][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-22.28.41:274][  0]LogInit: Texture streaming: Enabled
+[2018.01.26-22.28.41:359][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.26-22.28.41:359][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0DEAA894-4F75-4E71-8184-958844C58EC6}
+[2018.01.26-22.28.41:465][  0]LogInit: Transaction tracking system initialized
+[2018.01.26-22.28.41:733][  0]BlueprintLog: New page: Editor Load
+[2018.01.26-22.28.42:433][  0]LocalizationService: Localization service is disabled
+[2018.01.26-22.28.43:023][  0]LogConsoleResponse: Display: 
+[2018.01.26-22.28.43:188][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.26-22.28.43:188][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.26-22.28.43:188][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.26-22.28.43:727][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.26-22.28.44:168][  0]SourceControl: Source control is disabled
+[2018.01.26-22.28.44:169][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-22.28.44:169][  0]LightingResults: New page: Lighting Build
+[2018.01.26-22.28.44:200][  0]MapCheck: New page: Map Check
+[2018.01.26-22.28.44:200][  0]LightingResults: New page: Lighting Build
+[2018.01.26-22.28.44:814][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-22.28.44:836][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.28.44:836][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.28.44:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-22.28.44:849][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-22.28.44:890][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.262ms to complete.
+[2018.01.26-22.28.44:890][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.722
+[2018.01.26-22.28.45:014][  0]LogCollectionManager: Loaded 0 collections in 0.001378 seconds
+[2018.01.26-22.28.45:081][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.26-22.28.45:081][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.26-22.28.45:081][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.26-22.28.45:081][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.26-22.28.45:090][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.01.26-22.28.45:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.26-22.28.45:177][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.26-22.28.45:210][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-22.28.45:229][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-22.28.45:231][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.26-22.28.45:237][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.26-22.28.45:341][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-22.28.45:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-22.28.45:545][  0]LogLoad: (Engine Initialization) Total time: 19.24 seconds
+[2018.01.26-22.28.45:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.26-22.28.45:545][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.26-22.28.45:904][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.26-22.28.45:941][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-22.28.46:223][  1]LogAssetRegistry: Asset discovery search completed in 11.6548 seconds
+[2018.01.26-22.28.46:224][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.26-22.28.46:224][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.01.26-22.29.02:306][617]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-22.29.02:678][617]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.01.26-22.29.03:555][617]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-22.29.03:633][617]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.26-22.29.03:887][618]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.26-22.29.10:549][ 11]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.10:549][ 11]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.10:549][ 11]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.29.10:550][ 11]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.29.10:551][ 11]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.10:551][ 11]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.10:553][ 11]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.10:553][ 11]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.10:553][ 11]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.29.10:553][ 11]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.29.11:694][ 41]LogSavePackage: Save=289.79ms
+[2018.01.26-22.29.11:694][ 41]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap1DFEFA0E473DAE926CDD3CA755A7DB58.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.29.11:698][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.29.11:738][ 41]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.423
+[2018.01.26-22.29.11:780][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.29.11:951][ 41]LogSavePackage: Save=148.34ms
+[2018.01.26-22.29.11:952][ 41]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss404A5505470A868C82C5BA8CDE393676.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.29.11:956][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.29.13:862][147]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.13:862][147]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.13:864][147]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.13:864][147]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.13:866][147]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.13:866][147]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.20:686][542]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.20:686][542]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.20:686][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.29.20:686][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.29.20:686][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.29.20:686][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.29.20:688][542]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.20:688][542]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.20:690][542]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.29.20:690][542]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.29.20:690][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.29.20:690][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.29.20:690][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.29.20:690][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.29.21:778][568]LogSavePackage: Save=298.20ms
+[2018.01.26-22.29.21:778][568]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMapB6EDDDFF4819FC59A3B412BBC0A06AE3.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.29.21:783][568]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.29.21:820][568]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.429
+[2018.01.26-22.29.21:862][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.29.22:010][568]LogSavePackage: Save=141.61ms
+[2018.01.26-22.29.22:010][568]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss6EC018904DF5D2B1B3BCF381628DD651.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.29.22:014][568]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.29.37:797][ 29]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-22.29.38:123][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.26-22.29.38:168][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.26-22.29.38:599][ 29]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.26-22.30.01:174][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.30.01:311][ 12]LogSavePackage: Save=130.08ms
+[2018.01.26-22.30.01:311][ 12]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossAA1271064CB5E4E705662498FB3E824A.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.30.01:312][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.30.11:932][648]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.11:932][648]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.11:932][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.30.11:932][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.30.11:932][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.11:933][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.11:934][648]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.11:934][648]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.11:936][648]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.11:936][648]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.11:936][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.30.11:936][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.30.11:936][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.11:937][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.12:778][661]LogSavePackage: Save=282.41ms
+[2018.01.26-22.30.12:778][661]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap9EE657AD4FF80430FFA162A3399474DE.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.30.12:783][661]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.30.12:887][661]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.478
+[2018.01.26-22.30.12:931][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.30.13:075][661]LogSavePackage: Save=136.95ms
+[2018.01.26-22.30.13:075][661]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossE2DACC8D4578C7948DA898AEB9DBE7A5.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.30.13:079][661]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.30.27:938][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:938][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:938][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.27:938][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.27:940][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:940][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:942][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:942][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:942][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.27:942][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.27:944][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:944][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.A_TestBoss_87
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:944][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.27:945][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.27:946][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:946][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_3:PersistentLevel.A_TestBoss_C_0
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:948][547]LogScript: Warning: Accessed None trying to read property WeakSpot_Hand
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:000E
+[2018.01.26-22.30.27:948][547]LogScript: Warning: Accessed None
+	A_TestBoss_C /Engine/Transient.World_4:PersistentLevel.A_TestBoss_C_1
+	Function /Game/JAM/Gameplay/Boss/A_TestBoss.A_TestBoss_C:UserConstructionScript:0023
+[2018.01.26-22.30.27:949][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.27:949][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.28:829][575]LogSavePackage: Save=298.04ms
+[2018.01.26-22.30.28:829][575]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMapCDECE1534A2045BC0D2C29BBF4997D9D.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.30.28:833][575]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.30.28:869][575]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.424
+[2018.01.26-22.30.28:913][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.30.29:072][575]LogSavePackage: Save=151.87ms
+[2018.01.26-22.30.29:072][575]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss609B0FDA40A033F8E68ADE90CF1D46A8.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.30.29:086][575]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.30.29:685][611]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-22.30.29:866][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.29:866][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.29:866][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.30:103][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.30:103][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.30:103][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.30:246][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.30:246][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.30.30:250][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.30:250][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.30.30:755][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.30.30:914][635]LogSavePackage: Save=151.30ms
+[2018.01.26-22.30.30:915][635]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss1DB49F20470B270E1D3B9A9FA811CF1D.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.30.30:917][635]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.30.31:844][665]LogSavePackage: Save=305.41ms
+[2018.01.26-22.30.31:844][665]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap8C95706141AD120D04CE1BB7E55344E4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.30.31:849][665]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.30.31:889][665]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.436
+[2018.01.26-22.30.48:782][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.30.48:899][675]LogSavePackage: Save=111.57ms
+[2018.01.26-22.30.48:899][675]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossE751078C4E0CF971B49CB6985AEEF3B0.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.30.48:902][675]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.31.09:969][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.31.10:080][937]LogSavePackage: Save=105.44ms
+[2018.01.26-22.31.10:080][937]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss878FEB604871FDC0E232ECBBF5D0EFD8.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.31.10:084][937]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.31.52:930][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.31.53:344][496]LogSavePackage: Save=114.36ms
+[2018.01.26-22.31.53:344][496]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossBB09C9E04BA00C2C65E004A73A143D45.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.31.53:347][496]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.14:766][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.14:891][755]LogSavePackage: Save=118.27ms
+[2018.01.26-22.32.14:891][755]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss28F79D2E490247CDABBB078CA8B16AD0.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.14:894][755]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.37:386][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.37:514][ 84]LogSavePackage: Save=121.44ms
+[2018.01.26-22.32.37:514][ 84]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss6ACA818647760724ED9395B601ECF291.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.37:517][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.39:163][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.39:283][179]LogSavePackage: Save=114.30ms
+[2018.01.26-22.32.39:283][179]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss0462EB314A592AE46D577AB2AFE09965.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.39:287][179]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.45:589][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.45:701][552]LogSavePackage: Save=106.03ms
+[2018.01.26-22.32.45:701][552]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossB46FB827457EB8D4CF6A878CC3A12AE9.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.45:704][552]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.53:065][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.53:186][984]LogSavePackage: Save=115.38ms
+[2018.01.26-22.32.53:186][984]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss61E01845441E1E397BD543A6CDFD5E51.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.53:189][984]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.32.59:074][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.32.59:192][336]LogSavePackage: Save=112.05ms
+[2018.01.26-22.32.59:192][336]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss5EC33DBF41C1536D57CBE9AB34636834.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.32.59:196][336]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.14:673][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.14:795][249]LogSavePackage: Save=116.86ms
+[2018.01.26-22.33.14:795][249]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss8FBEFB804F657A4C0101419381F90C27.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.14:799][249]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.24:279][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.24:416][809]LogSavePackage: Save=130.69ms
+[2018.01.26-22.33.24:416][809]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss9DF8963F4E5B696AECEE44B9504521C2.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.24:419][809]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.40:495][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.40:633][761]LogSavePackage: Save=132.34ms
+[2018.01.26-22.33.40:633][761]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss73B756F1482D36BAAC4F5B84111426BF.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.40:636][761]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.48:034][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.48:160][200]LogSavePackage: Save=119.69ms
+[2018.01.26-22.33.48:160][200]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss57C44CC749E0063F8FFD818A57429FD9.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.48:163][200]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.51:723][414]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-22.33.51:867][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.51:868][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.51:868][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.51:958][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.51:958][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.51:958][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.52:163][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.52:163][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.52:164][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.52:165][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.52:621][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.52:758][438]LogSavePackage: Save=131.30ms
+[2018.01.26-22.33.52:758][438]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss687258C2495ED1E32AE65ABB268B567F.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.52:759][438]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.33.53:553][461]LogSavePackage: Save=195.16ms
+[2018.01.26-22.33.53:553][461]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap4017D0F94A78F52EB75179B7EB0F5AF7.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.33.53:557][461]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.33.53:660][461]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.475
+[2018.01.26-22.33.57:763][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.33.57:763][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.33.57:763][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.57:763][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.57:765][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.33.57:765][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.33.57:765][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.33.57:766][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.57:766][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.57:767][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.33.57:767][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.33.57:767][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.57:767][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.33.57:770][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.33.57:770][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.33.57:770][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.57:770][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.33.58:630][738]LogSavePackage: Save=241.52ms
+[2018.01.26-22.33.58:630][738]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMap5B513D894406E2017E650294D3211F3E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.33.58:636][738]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.33.58:662][738]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.343
+[2018.01.26-22.33.58:702][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.33.58:830][738]LogSavePackage: Save=122.97ms
+[2018.01.26-22.33.58:830][738]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossBEF242434274575105A2E8815954CC66.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.33.58:834][738]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.34.00:448][835]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-22.34.00:594][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.00:594][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.00:595][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.00:595][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.00:595][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.00:595][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.00:683][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.00:683][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.00:683][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.00:683][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.00:684][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.00:684][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.00:880][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.00:880][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.00:880][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.00:880][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.00:882][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.00:882][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.00:882][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.00:882][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.01:305][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.34.01:441][856]LogSavePackage: Save=130.55ms
+[2018.01.26-22.34.01:441][856]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss3CB0093A4F03C07E385CBF90ECE2D9B4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.34.01:443][856]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.34.02:395][891]LogSavePackage: Save=261.76ms
+[2018.01.26-22.34.02:395][891]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMapDF1405AC4F4F1FB5B8B1EBB87FB33CA9.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.34.02:399][891]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.34.02:431][891]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.365
+[2018.01.26-22.34.22:546][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.34.22:719][ 92]LogSavePackage: Save=160.55ms
+[2018.01.26-22.34.22:719][ 92]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss0DAB108444B10738C38C7E88AF5579F7.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.34.22:722][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.34.23:644][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.34.23:776][146]LogSavePackage: Save=120.11ms
+[2018.01.26-22.34.23:776][146]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss27247ABB4453C5B18CBDE784BBE2740B.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.34.23:780][146]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.34.24:422][185]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.26-22.34.24:565][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.24:565][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.24:565][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.24:565][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.24:565][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.24:566][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.24:653][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.24:653][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.24:653][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.24:654][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.24:654][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.24:654][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.24:858][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.24:859][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.24:859][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.24:859][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.24:860][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.24:860][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.26-22.34.24:861][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.24:861][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_12.Sphere' 
+[2018.01.26-22.34.25:126][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.26-22.34.25:261][197]LogSavePackage: Save=127.43ms
+[2018.01.26-22.34.25:261][197]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss6B1527E54F52C2CBE9590BB01215E80E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.26-22.34.25:262][197]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.26-22.34.25:931][216]LogSavePackage: Save=242.09ms
+[2018.01.26-22.34.25:931][216]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonExampleMapB5E1A7C94D16835830163AB5B4F7E37F.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.26-22.34.25:935][216]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.26-22.34.26:040][216]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.422
+[2018.01.26-22.34.27:005][274]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-22.34.27:067][274]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.34.27:067][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-22.34.27:068][274]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 4:34:27 AM)
+[2018.01.26-22.34.27:068][274]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.26-22.34.27:097][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028966s)
+[2018.01.26-22.34.27:098][274]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.26-22.34.27:099][274]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2018.01.26-22.34.27:099][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030883s)
+[2018.01.26-22.34.27:125][274]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-22.34.27:145][274]LogInit: FAudioDevice initialized.
+[2018.01.26-22.34.27:195][274]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.26-22.34.27:198][274]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_57.Sphere' 
+[2018.01.26-22.34.27:198][274]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_64.Sphere' 
+[2018.01.26-22.34.27:198][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-01.34.27
+[2018.01.26-22.34.27:199][274]LogWorld: Bringing up level for play took: 0.003146
+[2018.01.26-22.34.27:242][274]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.26-22.34.27:244][274]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.096
+[2018.01.26-22.34.27:244][274]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.34.37:652][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.34.37:690][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.26-22.34.38:437][927]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2018.01.26-22.34.38:437][927]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.01.26-22.34.39:303][927]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.01.26-22.34.39:303][927]LogWindows: Error: === Critical error: ===
+[2018.01.26-22.34.39:303][927]LogWindows: Error: 
+[2018.01.26-22.34.39:303][927]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 813] 
+[2018.01.26-22.34.39:303][927]LogWindows: Error: Rendering thread exception:
+[2018.01.26-22.34.39:303][927]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 182] 
+[2018.01.26-22.34.39:303][927]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0020 - 'INTERNAL_ERROR')
+[2018.01.26-22.34.39:303][927]LogWindows: Error: 
+[2018.01.26-22.34.39:303][927]LogWindows: Error: 
+[2018.01.26-22.34.39:303][927]LogWindows: Error: [Callstack] 0x00000000AFEE9D98 KERNELBASE.dll!UnknownFunction []
+[2018.01.26-22.34.39:303][927]LogWindows: Error: [Callstack] 0x00000000A18276D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D78330B UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D7147F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000625F79FF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000625FBBC0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000625DB3FA UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000625DB35E UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000625E83E8 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000A066E4F7 UE4Editor-RHI.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000623C0B45 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000623C60A9 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D5E4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D5E4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000A18A22C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000A18A32F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D98092C UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x000000007D972563 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000B3492774 KERNEL32.DLL!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000B35D0D51 ntdll.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: [Callstack] 0x00000000B35D0D51 ntdll.dll!UnknownFunction []
+[2018.01.26-22.34.39:304][927]LogWindows: Error: 
+[2018.01.26-22.34.39:304][927]LogWindows: Error: 
+[2018.01.26-22.34.39:304][927]LogWindows: Error: 
+[2018.01.26-22.34.39:304][927]LogWindows: Error: 
+[2018.01.26-22.34.39:322][927]LogExit: Executing StaticShutdownAfterError
+[2018.01.26-22.34.39:326][927]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.26-22.34.39:326][927]Log file closed, 01/27/18 01:34:39
