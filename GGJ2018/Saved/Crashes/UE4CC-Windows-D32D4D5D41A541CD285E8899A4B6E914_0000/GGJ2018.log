@@ -1,0 +1,724 @@
+﻿Log file open, 01/27/18 06:12:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2133302390) SRandInit(2133302390).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191794
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-03.12.04:559][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-03.12.04:559][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-03.12.04:576][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.27-03.12.04:576][  0]LogInit: User: Wheatley
+[2018.01.27-03.12.04:576][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-03.12.04:576][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.27-03.12.04:576][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.27-03.12.04:576][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-03.12.04:576][  0]LogMemory: Process Physical Memory: 272.79 MB used, 272.79 MB peak
+[2018.01.27-03.12.04:576][  0]LogMemory: Process Virtual Memory: 271.76 MB used, 271.76 MB peak
+[2018.01.27-03.12.04:576][  0]LogMemory: Physical Memory: 3770.28 MB used,  4338.08 MB free, 8108.36 MB total
+[2018.01.27-03.12.04:576][  0]LogMemory: Virtual Memory: 646.13 MB used,  4338.08 MB free, 134217728.00 MB total
+[2018.01.27-03.12.04:785][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.27-03.12.04:785][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.27-03.12.04:789][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.27-03.12.04:789][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.27-03.12.05:316][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-03.12.05:606][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-03.12.05:627][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 11_0)
+[2018.01.27-03.12.05:627][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.27-03.12.05:633][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.01.27-03.12.05:633][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.27-03.12.05:635][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-03.12.05:635][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-03.12.05:635][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-03.12.05:642][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-03.12.05:642][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-03.12.05:642][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-03.12.05:642][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.27-03.12.05:643][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.27-03.12.05:643][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.27-03.12.05:643][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:643][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:644][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:644][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:644][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:644][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:645][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:645][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:645][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:645][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:645][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:646][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:646][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:646][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:646][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:647][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-03.12.05:647][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.27-03.12.05:647][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.27-03.12.05:647][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.27-03.12.05:647][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.27-03.12.05:647][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.27-03.12.05:683][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-03.12.05:696][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.27-03.12.05:696][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/13668/).
+[2018.01.27-03.12.05:697][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/224ECFEA477A0CB53875039B48819965/'.
+[2018.01.27-03.12.05:697][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-03.12.06:787][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-03.12.06:828][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-03.12.06:869][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-03.12.06:909][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-03.12.06:951][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-03.12.06:993][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-03.12.07:033][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-03.12.07:076][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-03.12.07:110][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-03.12.07:150][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-03.12.07:191][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-03.12.07:231][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-03.12.07:271][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-03.12.07:310][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-03.12.07:391][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-03.12.07:391][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-03.12.07:431][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-03.12.07:460][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-03.12.07:535][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-03.12.07:558][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-03.12.07:600][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-03.12.07:641][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-03.12.07:681][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-03.12.07:721][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-03.12.07:722][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-03.12.08:066][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-03.12.08:162][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-03.12.08:163][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-03.12.08:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-03.12.08:163][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-03.12.08:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-03.12.08:163][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-03.12.08:180][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-03.12.08:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-03.12.08:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-03.12.08:203][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-03.12.08:203][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-03.12.08:203][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-03.12.08:558][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-03.12.08:832][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-03.12.08:863][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-03.12.08:863][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-03.12.08:863][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-03.12.08:863][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-03.12.08:863][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-03.12.08:888][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.27-03.12.09:039][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.01.27-03.12.09:500][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.032395 seconds
+[2018.01.27-03.12.09:506][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-03.12.09:506][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.27-03.12.09:506][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-03.12.09:545][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-03.12.11:849][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-03.12.11:884][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-03.12.12:490][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-03.12.12:834][  0]SourceControl: Source control is disabled
+[2018.01.27-03.12.12:834][  0]SourceControl: Source control is disabled
+[2018.01.27-03.12.12:875][  0]SourceControl: Source control is disabled
+[2018.01.27-03.12.12:914][  0]SourceControl: Source control is disabled
+[2018.01.27-03.12.13:538][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-03.12.13:743][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-03.12.13:971][  0]LogEngine: Initializing Engine...
+[2018.01.27-03.12.13:973][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-03.12.14:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-03.12.14:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-03.12.14:287][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-03.12.14:292][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.12.14:329][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-03.12.14:496][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-03.12.14:511][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-03.12.14:586][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-03.12.14:587][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D68117AD-4575-4288-1443-7080084B0386}
+[2018.01.27-03.12.14:680][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-03.12.14:907][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-03.12.15:554][  0]LocalizationService: Localization service is disabled
+[2018.01.27-03.12.16:101][  0]LogConsoleResponse: Display: 
+[2018.01.27-03.12.16:263][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-03.12.16:263][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-03.12.16:263][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-03.12.17:127][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.27-03.12.17:161][  0]SourceControl: Source control is disabled
+[2018.01.27-03.12.17:161][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-03.12.17:162][  0]LightingResults: New page: Lighting Build
+[2018.01.27-03.12.17:192][  0]MapCheck: New page: Map Check
+[2018.01.27-03.12.17:192][  0]LightingResults: New page: Lighting Build
+[2018.01.27-03.12.17:905][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-03.12.17:927][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_190.Sphere' 
+[2018.01.27-03.12.17:927][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_190.Sphere' 
+[2018.01.27-03.12.17:927][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_188.Sphere' 
+[2018.01.27-03.12.17:928][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_188.Sphere' 
+[2018.01.27-03.12.17:928][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-03.12.17:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-03.12.17:984][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.161ms to complete.
+[2018.01.27-03.12.17:984][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.823
+[2018.01.27-03.12.18:045][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-03.12.18:122][  0]LogCollectionManager: Loaded 0 collections in 0.001786 seconds
+[2018.01.27-03.12.18:192][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.27-03.12.18:192][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.27-03.12.18:192][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.27-03.12.18:192][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.27-03.12.18:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2363 classes and 519 folders.
+[2018.01.27-03.12.18:250][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.27-03.12.18:284][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-03.12.18:316][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-03.12.18:333][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-03.12.18:335][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-03.12.18:339][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-03.12.18:435][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-03.12.18:623][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-03.12.18:623][  0]LogLoad: (Engine Initialization) Total time: 16.70 seconds
+[2018.01.27-03.12.18:623][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-03.12.18:623][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-03.12.18:662][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-03.12.18:718][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.12.18:735][  1]LogAssetRegistry: Asset discovery search completed in 9.7182 seconds
+[2018.01.27-03.12.18:737][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.27-03.12.18:737][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.01.27-03.12.19:782][ 16]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.13.05:210][  4]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.13.05:261][  4]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.27-03.13.05:264][  4]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.05:711][  4]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.05:730][  4]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.05:775][  4]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-03.13.05:865][  4]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.27-03.13.06:282][ 12]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.27-03.13.07:199][ 50]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.13.07:199][ 50]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.13.07:199][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.13.08:682][112]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.09:517][140]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.10:172][175]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.11:305][224]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.12:367][265]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.13.12:367][265]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.13.12:367][265]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.13.15:506][395]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.16:548][436]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.13.16:548][436]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.13.16:548][436]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.13.17:664][483]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.13.18:304][483]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.18:364][483]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.18:430][483]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.18:493][483]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.13.19:130][483]TextureStreamingBuild: Display: Compiling optional shaders took 0.645 seconds.
+[2018.01.27-03.13.20:854][483]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-03.13.20:901][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.13.20:975][483]LogSavePackage: Save=31.18ms
+[2018.01.27-03.13.20:975][483]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridC08F93BC41DE306ABA4DFD980A52614A.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.13.20:979][483]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.13.20:994][483]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.13.20:994][483]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.13.20:994][483]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.13.45:765][594]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.46:849][636]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.13.47:538][636]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.47:595][636]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.47:657][636]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.13.47:720][636]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.13.48:472][636]TextureStreamingBuild: Display: Compiling optional shaders took 0.759 seconds.
+[2018.01.27-03.13.50:292][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.13.50:406][636]LogSavePackage: Save=108.20ms
+[2018.01.27-03.13.50:406][636]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid477CD6BC41B90001CBC0748AF76B01ED.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.13.50:411][636]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.13.50:424][636]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.13.50:424][636]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.13.50:424][636]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.14.28:074][256]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.14.28:519][282]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.14.42:163][ 98]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.14.42:177][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.14.42:283][ 98]LogSavePackage: Save=100.37ms
+[2018.01.27-03.14.42:283][ 98]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridAE6F35504A4D79D8B44051936BDA62A1.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.14.42:284][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.14.46:434][347]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.14.47:443][407]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.14.47:443][407]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.14.47:443][407]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.02:494][309]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.03:273][351]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.04:558][427]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.05:667][493]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.05:667][493]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.15.05:667][493]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.05:954][510]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.06:961][569]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.06:961][569]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.15.06:961][569]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.13:422][956]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.13:881][982]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.15:183][ 59]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.15:183][ 59]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.01.27-03.15.15:183][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.16:586][143]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.17:613][204]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.17:613][204]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.01.27-03.15.17:613][204]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.30:202][956]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.31:200][ 15]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.31:200][ 15]MaterialEditorStats: Vertex shader: 27 instructions
+[2018.01.27-03.15.31:200][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.33:475][151]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.34:705][224]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.34:705][224]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.15.34:705][224]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.40:336][561]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.46:429][920]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.46:448][920]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.47:443][975]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.47:443][975]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.15.47:443][975]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.52:607][282]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.54:722][402]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.56:098][480]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.57:148][542]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.58:115][599]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.15.58:115][599]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.15.58:115][599]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.15.58:688][633]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.15.59:329][633]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.59:384][633]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.59:438][633]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.15.59:502][633]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.16.00:183][633]TextureStreamingBuild: Display: Compiling optional shaders took 0.691 seconds.
+[2018.01.27-03.16.01:892][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.16.01:936][633]LogSavePackage: Save=30.49ms
+[2018.01.27-03.16.01:936][633]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridD57ACBCB4E3595EF04EFE6B2A03BBC22.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.16.01:940][633]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.16.01:954][633]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.01:954][633]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.16.01:954][633]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.16.04:670][792]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.06:030][869]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.07:088][931]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-03.16.07:095][931]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.08:264][996]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.08:264][996]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.16.08:264][996]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.16.14:751][385]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-03.16.14:759][385]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.15:887][452]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.15:887][452]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.16.15:887][452]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.16.16:673][499]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.16.17:300][499]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-03.16.17:327][499]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.17:396][499]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.17:451][499]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.17:518][499]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.16.18:292][499]TextureStreamingBuild: Display: Compiling optional shaders took 0.784 seconds.
+[2018.01.27-03.16.20:104][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.16.20:223][499]LogSavePackage: Save=113.21ms
+[2018.01.27-03.16.20:223][499]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid3976879E493ACDD73B517BA1F6B427D6.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.16.20:226][499]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.16.20:233][499]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.20:233][499]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.16.20:233][499]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.16.26:256][858]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.27:257][913]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.27:257][913]MaterialEditorStats: Vertex shader: 26 instructions
+[2018.01.27-03.16.27:257][913]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.16.28:410][982]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.29:415][ 41]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.29:415][ 41]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.01.27-03.16.29:415][ 41]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.16.47:159][105]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.48:158][163]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.16.48:158][163]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.16.48:158][163]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.16.59:550][844]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.16.59:568][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-03.17.00:818][915]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.00:818][915]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.00:818][915]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.17.03:567][ 79]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.03:586][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-03.17.04:513][133]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.17.05:216][133]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.05:276][133]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.05:334][133]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.05:400][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.17.06:090][133]TextureStreamingBuild: Display: Compiling optional shaders took 0.698 seconds.
+[2018.01.27-03.17.07:678][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.17.07:789][133]LogSavePackage: Save=106.29ms
+[2018.01.27-03.17.07:789][133]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridD1F27DA947B5C345FE99B09CCCBF0F81.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.17.07:792][133]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.17.07:799][133]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.07:799][133]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.07:799][133]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.17.08:295][162]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.09:314][220]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.10:239][275]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.10:255][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-03.17.11:073][323]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.11:073][323]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.11:073][323]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.17.12:008][379]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.12:907][432]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.12:907][432]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.12:907][432]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.17.20:033][858]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.20:058][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-03.17.21:086][917]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.21:086][917]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.21:086][917]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.17.22:770][ 18]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.17.23:412][ 18]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.23:469][ 18]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.23:530][ 18]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.23:595][ 18]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.17.24:261][ 18]TextureStreamingBuild: Display: Compiling optional shaders took 0.675 seconds.
+[2018.01.27-03.17.26:010][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.17.26:117][ 18]LogSavePackage: Save=100.30ms
+[2018.01.27-03.17.26:117][ 18]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridCED10ECC406F5BE14AEACA98EBE0A0C4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.17.26:121][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.17.26:129][ 18]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.26:129][ 18]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.26:129][ 18]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.17.53:139][622]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.54:557][703]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.55:505][759]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.56:550][821]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.56:550][821]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-03.17.56:550][821]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.17.57:719][891]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.17.58:788][954]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.17.58:788][954]MaterialEditorStats: Vertex shader: 39 instructions
+[2018.01.27-03.17.58:788][954]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.18.06:243][400]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.06:263][400]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.27-03.18.07:418][465]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.18.07:418][465]MaterialEditorStats: Vertex shader: 39 instructions
+[2018.01.27-03.18.07:418][465]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.18.07:833][490]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.18.08:496][490]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.08:550][490]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.08:613][490]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.08:676][490]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.18.09:372][490]TextureStreamingBuild: Display: Compiling optional shaders took 0.704 seconds.
+[2018.01.27-03.18.11:154][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.18.11:264][490]LogSavePackage: Save=103.59ms
+[2018.01.27-03.18.11:265][490]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridB3BAA02444569492AB0396BE3BD66167.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.18.11:268][490]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.18.11:282][490]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.18.11:282][490]MaterialEditorStats: Vertex shader: 39 instructions
+[2018.01.27-03.18.11:282][490]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.18.25:770][343]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.26:703][398]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.18.27:349][398]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.27:404][398]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.27:465][398]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.27:525][398]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.18.28:192][398]TextureStreamingBuild: Display: Compiling optional shaders took 0.675 seconds.
+[2018.01.27-03.18.29:984][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.18.30:080][398]LogSavePackage: Save=90.25ms
+[2018.01.27-03.18.30:080][398]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid29EC6C5444833A92ACF9E8A1CD9E1DCA.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.18.30:083][398]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.18.30:095][398]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.01.27-03.18.30:095][398]MaterialEditorStats: Vertex shader: 40 instructions
+[2018.01.27-03.18.30:095][398]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-03.18.44:516][242]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.44:808][258]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.45:903][321]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2018.01.27-03.18.45:903][321]MaterialEditorStats: Vertex shader: 40 instructions
+[2018.01.27-03.18.45:903][321]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.27-03.18.47:575][421]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.47:610][421]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.49:408][523]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.18.49:408][523]MaterialEditorStats: Vertex shader: 134 instructions
+[2018.01.27-03.18.49:408][523]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.18.50:251][573]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.18.50:894][573]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.50:959][573]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.51:024][573]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.18.51:103][573]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.18.52:047][573]TextureStreamingBuild: Display: Compiling optional shaders took 0.953 seconds.
+[2018.01.27-03.18.54:606][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.18.54:715][573]LogSavePackage: Save=103.18ms
+[2018.01.27-03.18.54:715][573]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid842D865748B614AF3CFAB59F1116B9BC.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.18.54:719][573]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.19.02:988][ 50]LogRenderer: Reallocating scene render targets to support 1004x536 Format 10 NumSamples 1 (Frame:5629).
+[2018.01.27-03.19.03:063][ 51]LogRenderer: Reallocating scene render targets to support 1368x768 Format 10 NumSamples 1 (Frame:5631).
+[2018.01.27-03.19.27:580][344]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.29:551][461]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.19.29:551][461]MaterialEditorStats: Vertex shader: 133 instructions
+[2018.01.27-03.19.29:551][461]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.19.34:683][767]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.19.35:328][767]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.35:394][767]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.35:456][767]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.35:530][767]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.19.36:566][767]TextureStreamingBuild: Display: Compiling optional shaders took 1.044 seconds.
+[2018.01.27-03.19.39:366][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.19.39:744][767]LogSavePackage: Save=70.98ms
+[2018.01.27-03.19.39:744][767]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid35A7F76A486B1189976084A60D9F599C.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.19.39:748][767]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.19.47:690][185]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-03.19.47:741][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-03.19.47:741][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-03.19.47:742][185]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 9:19:47 AM)
+[2018.01.27-03.19.47:742][185]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-03.19.47:774][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031628s)
+[2018.01.27-03.19.47:775][185]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-03.19.47:775][185]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2018.01.27-03.19.47:776][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033629s)
+[2018.01.27-03.19.47:796][185]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.19.47:824][185]LogInit: FAudioDevice initialized.
+[2018.01.27-03.19.47:878][185]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-03.19.47:882][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_190.Sphere' 
+[2018.01.27-03.19.47:882][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_188.Sphere' 
+[2018.01.27-03.19.47:883][185]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-06.19.47
+[2018.01.27-03.19.47:884][185]LogWorld: Bringing up level for play took: 0.003465
+[2018.01.27-03.19.47:926][185]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.27-03.19.47:928][185]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.78
+[2018.01.27-03.19.47:929][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-03.19.50:045][301]LogBlueprintUserMessages: [TASK_RotateToFace_C_0] Hello
+[2018.01.27-03.19.53:974][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-03.19.54:019][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-03.19.56:182][646]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.56:498][661]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.58:246][762]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.19.58:246][762]MaterialEditorStats: Vertex shader: 120 instructions
+[2018.01.27-03.19.58:246][762]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.19.59:002][806]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.19.59:651][806]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.59:720][806]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.59:784][806]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.19.59:863][806]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.20.00:822][806]TextureStreamingBuild: Display: Compiling optional shaders took 0.968 seconds.
+[2018.01.27-03.20.03:309][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.20.03:349][806]LogSavePackage: Save=33.09ms
+[2018.01.27-03.20.03:349][806]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_GridDA2E1D0544B7FF15E6D175B17F3D9173.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.20.03:352][806]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.20.19:878][716]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.20.19:893][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.20.19:921][716]LogSavePackage: Save=21.07ms
+[2018.01.27-03.20.19:921][716]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid2E3F2BAE4DE7847567AC4EB3C0D6F46D.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.20.19:922][716]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.20.26:944][136]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.28:844][248]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.20.28:844][248]MaterialEditorStats: Vertex shader: 120 instructions
+[2018.01.27-03.20.28:844][248]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.20.31:132][384]LogMaterialEditor: Saving and Compiling material M_Grid
+[2018.01.27-03.20.31:775][384]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.31:841][384]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.31:912][384]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.31:989][384]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grid, compiling. 
+[2018.01.27-03.20.32:946][384]TextureStreamingBuild: Display: Compiling optional shaders took 0.965 seconds.
+[2018.01.27-03.20.35:587][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_Grid" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset" SILENT=true
+[2018.01.27-03.20.35:697][384]LogSavePackage: Save=103.68ms
+[2018.01.27-03.20.35:697][384]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_Grid0BA927434E0895C4898B41A1CAFEBF44.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset'
+[2018.01.27-03.20.35:701][384]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_Grid.uasset
+[2018.01.27-03.20.39:558][607]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.41:144][697]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.20.41:144][697]MaterialEditorStats: Vertex shader: 120 instructions
+[2018.01.27-03.20.41:144][697]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.20.42:067][752]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.43:782][854]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.20.43:782][854]MaterialEditorStats: Vertex shader: 120 instructions
+[2018.01.27-03.20.43:782][854]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.20.45:417][951]LogMaterial: Missing cached shader map for material M_Grid, compiling. 
+[2018.01.27-03.20.47:121][ 47]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2018.01.27-03.20.47:121][ 47]MaterialEditorStats: Vertex shader: 120 instructions
+[2018.01.27-03.20.47:121][ 47]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-03.20.47:160][ 49]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2018.01.27-03.20.47:160][ 49]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
