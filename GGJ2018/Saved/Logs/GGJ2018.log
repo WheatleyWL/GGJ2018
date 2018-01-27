@@ -1,4 +1,4 @@
-﻿Log file open, 01/27/18 04:40:29
+﻿Log file open, 01/27/18 04:45:11
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GGJ2018
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2122200120) SRandInit(-2122200120).
+LogInit: Display: RandInit(-1462674809) SRandInit(-1462674809).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.202357
+LogStats: Stats thread started at 0.216814
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,178 +196,203 @@ LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.01.27-01.40.31:306][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.27-01.40.31:306][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.01.27-01.40.31:322][  0]LogInit: Computer: DESKTOP-R47TH6J
-[2018.01.27-01.40.31:322][  0]LogInit: User: Wheatley
-[2018.01.27-01.40.31:322][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.01.27-01.40.31:322][  0]LogInit: High frequency timer resolution =2.338347 MHz
-[2018.01.27-01.40.31:323][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.01.27-01.40.31:323][  0]LogMemory: Platform Memory Stats for Windows
-[2018.01.27-01.40.31:323][  0]LogMemory: Process Physical Memory: 272.20 MB used, 272.20 MB peak
-[2018.01.27-01.40.31:323][  0]LogMemory: Process Virtual Memory: 269.74 MB used, 269.74 MB peak
-[2018.01.27-01.40.31:323][  0]LogMemory: Physical Memory: 3591.86 MB used,  4516.49 MB free, 8108.36 MB total
-[2018.01.27-01.40.31:323][  0]LogMemory: Virtual Memory: 644.07 MB used,  4516.49 MB free, 134217728.00 MB total
-[2018.01.27-01.40.31:523][  0]LogInit: Using OS detected language (ru-RU).
-[2018.01.27-01.40.31:523][  0]LogInit: Using OS detected locale (ru-RU).
-[2018.01.27-01.40.31:526][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
-[2018.01.27-01.40.31:527][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
-[2018.01.27-01.40.32:060][  0]LogInit: Setting process to per monitor DPI aware
-[2018.01.27-01.40.32:377][  0]LogD3D11RHI: D3D11 adapters:
-[2018.01.27-01.40.32:396][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 11_0)
-[2018.01.27-01.40.32:396][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
-[2018.01.27-01.40.32:402][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2018.01.27-01.40.32:402][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.01.27-01.40.32:403][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.01.27-01.40.32:403][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.01.27-01.40.32:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.01.27-01.40.32:410][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.01.27-01.40.32:411][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
-[2018.01.27-01.40.32:411][  0]LogWindows: EnumDisplayDevices:
-[2018.01.27-01.40.32:411][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2018.01.27-01.40.32:411][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2018.01.27-01.40.32:411][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2018.01.27-01.40.32:411][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:412][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:412][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:412][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:412][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:413][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:413][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:413][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:413][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:414][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:414][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:414][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:414][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:415][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:415][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:415][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
-[2018.01.27-01.40.32:415][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
-[2018.01.27-01.40.32:415][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
-[2018.01.27-01.40.32:415][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
-[2018.01.27-01.40.32:415][  0]LogD3D11RHI:      Driver Date: 11-2-2017
-[2018.01.27-01.40.32:415][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
-[2018.01.27-01.40.32:451][  0]LogD3D11RHI: Async texture creation enabled
-[2018.01.27-01.40.32:464][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
-[2018.01.27-01.40.32:464][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/10132/).
-[2018.01.27-01.40.32:465][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/4CB56093492BD3900BFB8ABBF3C4C8F3/'.
-[2018.01.27-01.40.32:465][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.01.27-01.40.33:693][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.01.27-01.40.33:747][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.01.27-01.40.33:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.01.27-01.40.33:859][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.01.27-01.40.33:914][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.01.27-01.40.33:972][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.01.27-01.40.34:028][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.01.27-01.40.34:092][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.01.27-01.40.34:143][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.01.27-01.40.34:196][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.01.27-01.40.34:248][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.01.27-01.40.34:308][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.01.27-01.40.34:370][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.01.27-01.40.34:422][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.01.27-01.40.34:541][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.01.27-01.40.34:541][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.01.27-01.40.34:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.01.27-01.40.34:636][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.01.27-01.40.34:732][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.01.27-01.40.34:763][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.01.27-01.40.34:816][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.01.27-01.40.34:869][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.01.27-01.40.34:927][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.01.27-01.40.34:980][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.01.27-01.40.34:980][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.01.27-01.40.35:450][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.01.27-01.40.35:570][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.01.27-01.40.35:593][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.01.27-01.40.35:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.01.27-01.40.35:620][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.01.27-01.40.35:620][  0]LogSlate: Using Freetype 2.6.0
-[2018.01.27-01.40.35:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.27-01.40.35:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.27-01.40.36:103][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.27-01.40.36:491][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.01.27-01.40.36:533][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.01.27-01.40.36:533][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.01.27-01.40.36:533][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.01.27-01.40.36:533][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.01.27-01.40.36:533][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.01.27-01.40.36:564][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
-[2018.01.27-01.40.36:755][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
-[2018.01.27-01.40.37:410][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.036917 seconds
-[2018.01.27-01.40.37:416][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.01.27-01.40.37:416][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
-[2018.01.27-01.40.37:416][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.01.27-01.40.37:468][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.01.27-01.40.40:612][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.01.27-01.40.40:655][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.01.27-01.40.41:433][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.01.27-01.40.41:902][  0]SourceControl: Source control is disabled
-[2018.01.27-01.40.41:902][  0]SourceControl: Source control is disabled
-[2018.01.27-01.40.41:956][  0]SourceControl: Source control is disabled
-[2018.01.27-01.40.42:008][  0]SourceControl: Source control is disabled
-[2018.01.27-01.40.42:828][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.01.27-01.40.43:046][  0]LogOcInput: OculusInput pre-init called
-[2018.01.27-01.40.43:278][  0]LogEngine: Initializing Engine...
-[2018.01.27-01.40.43:280][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.01.27-01.40.43:504][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.01.27-01.40.43:504][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.01.27-01.40.43:604][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.01.27-01.40.43:610][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.01.27-01.40.43:648][  0]LogInit: FAudioDevice initialized.
-[2018.01.27-01.40.43:727][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.27-01.40.43:743][  0]LogInit: Texture streaming: Enabled
-[2018.01.27-01.40.43:820][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.01.27-01.40.43:820][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A4FDB7F3-436A-AD46-DF23-A6B8FE34FFBE}
-[2018.01.27-01.40.43:914][  0]LogInit: Transaction tracking system initialized
-[2018.01.27-01.40.44:139][  0]BlueprintLog: New page: Editor Load
-[2018.01.27-01.40.44:781][  0]LocalizationService: Localization service is disabled
-[2018.01.27-01.40.45:327][  0]LogConsoleResponse: Display: 
-[2018.01.27-01.40.45:490][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.01.27-01.40.45:490][  0]LogCook: Display: Mobile HDR setting 1
-[2018.01.27-01.40.45:490][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.01.27-01.40.46:383][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
-[2018.01.27-01.40.46:383][  0]SourceControl: Source control is disabled
-[2018.01.27-01.40.46:383][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.01.27-01.40.46:384][  0]LightingResults: New page: Lighting Build
-[2018.01.27-01.40.46:414][  0]MapCheck: New page: Map Check
-[2018.01.27-01.40.46:414][  0]LightingResults: New page: Lighting Build
-[2018.01.27-01.40.47:118][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.01.27-01.40.47:140][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_184.Sphere' 
-[2018.01.27-01.40.47:140][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_184.Sphere' 
-[2018.01.27-01.40.47:140][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_182.Sphere' 
-[2018.01.27-01.40.47:140][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_182.Sphere' 
-[2018.01.27-01.40.47:141][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.01.27-01.40.47:155][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.01.27-01.40.47:198][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.118ms to complete.
-[2018.01.27-01.40.47:198][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.815
-[2018.01.27-01.40.47:269][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.01.27-01.40.47:346][  0]LogCollectionManager: Loaded 0 collections in 0.001377 seconds
-[2018.01.27-01.40.47:415][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
-[2018.01.27-01.40.47:415][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
-[2018.01.27-01.40.47:415][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
-[2018.01.27-01.40.47:415][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.01.27-01.40.47:424][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2363 classes and 519 folders.
-[2018.01.27-01.40.47:473][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.01.27-01.40.47:506][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.01.27-01.40.47:538][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.01.27-01.40.47:554][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.01.27-01.40.47:555][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.01.27-01.40.47:560][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.01.27-01.40.47:657][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 10 NumSamples 1 (Frame:1).
-[2018.01.27-01.40.47:873][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.01.27-01.40.47:873][  0]LogLoad: (Engine Initialization) Total time: 19.34 seconds
-[2018.01.27-01.40.47:873][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.01.27-01.40.47:873][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.01.27-01.40.47:911][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.01.27-01.40.47:967][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.01.27-01.40.47:982][  1]LogAssetRegistry: Asset discovery search completed in 11.2495 seconds
-[2018.01.27-01.40.47:984][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.01.27-01.40.47:984][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
-[2018.01.27-01.40.48:940][ 20]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-01.45.13:208][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-01.45.13:208][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-01.45.13:225][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.27-01.45.13:225][  0]LogInit: User: Wheatley
+[2018.01.27-01.45.13:225][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-01.45.13:225][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.27-01.45.13:225][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.27-01.45.13:225][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-01.45.13:225][  0]LogMemory: Process Physical Memory: 272.21 MB used, 272.21 MB peak
+[2018.01.27-01.45.13:225][  0]LogMemory: Process Virtual Memory: 269.75 MB used, 269.75 MB peak
+[2018.01.27-01.45.13:225][  0]LogMemory: Physical Memory: 3606.66 MB used,  4501.70 MB free, 8108.36 MB total
+[2018.01.27-01.45.13:225][  0]LogMemory: Virtual Memory: 644.07 MB used,  4501.70 MB free, 134217728.00 MB total
+[2018.01.27-01.45.13:426][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.27-01.45.13:426][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.27-01.45.13:430][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.27-01.45.13:430][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.27-01.45.13:959][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-01.45.14:255][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-01.45.14:275][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 11_0)
+[2018.01.27-01.45.14:275][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.27-01.45.14:281][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.01.27-01.45.14:281][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.27-01.45.14:282][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-01.45.14:282][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-01.45.14:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-01.45.14:290][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-01.45.14:290][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-01.45.14:290][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-01.45.14:290][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.27-01.45.14:290][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.27-01.45.14:290][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.27-01.45.14:291][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:291][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:291][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:291][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:292][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:292][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:292][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:292][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:293][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:293][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:293][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:293][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:294][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:294][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:294][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:294][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.27-01.45.14:294][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.27-01.45.14:294][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.27-01.45.14:294][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.27-01.45.14:294][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.27-01.45.14:295][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.27-01.45.14:332][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-01.45.14:346][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.27-01.45.14:346][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/13872/).
+[2018.01.27-01.45.14:347][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/F19134F746DE6E009DCAD4B3FB3376C6/'.
+[2018.01.27-01.45.14:347][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-01.45.15:517][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-01.45.15:573][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-01.45.15:629][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-01.45.15:684][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-01.45.15:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-01.45.15:794][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-01.45.15:848][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-01.45.15:903][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-01.45.15:947][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-01.45.16:000][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-01.45.16:053][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-01.45.16:105][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-01.45.16:158][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-01.45.16:211][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-01.45.16:317][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-01.45.16:317][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-01.45.16:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-01.45.16:407][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-01.45.16:500][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-01.45.16:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-01.45.16:584][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-01.45.16:636][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-01.45.16:690][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-01.45.16:743][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-01.45.16:743][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-01.45.17:202][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-01.45.17:317][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-01.45.17:317][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-01.45.17:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-01.45.17:317][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-01.45.17:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-01.45.17:318][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-01.45.17:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-01.45.17:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-01.45.17:366][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-01.45.17:366][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-01.45.17:367][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-01.45.17:367][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-01.45.17:828][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-01.45.18:186][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-01.45.18:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-01.45.18:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-01.45.18:225][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-01.45.18:225][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-01.45.18:225][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-01.45.18:256][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.27-01.45.18:445][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.01.27-01.45.19:036][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.036137 seconds
+[2018.01.27-01.45.19:043][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-01.45.19:043][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.27-01.45.19:043][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-01.45.19:094][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-01.45.22:073][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-01.45.22:109][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-01.45.22:650][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-01.45.22:993][  0]SourceControl: Source control is disabled
+[2018.01.27-01.45.22:993][  0]SourceControl: Source control is disabled
+[2018.01.27-01.45.23:034][  0]SourceControl: Source control is disabled
+[2018.01.27-01.45.23:075][  0]SourceControl: Source control is disabled
+[2018.01.27-01.45.23:699][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-01.45.23:904][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-01.45.24:133][  0]LogEngine: Initializing Engine...
+[2018.01.27-01.45.24:135][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-01.45.24:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-01.45.24:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-01.45.24:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-01.45.24:465][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-01.45.24:503][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-01.45.24:742][  0]LogDerivedDataCache: Saved boot cache 0.24s 78MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-01.45.24:759][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-01.45.24:835][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-01.45.24:835][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={57160EAB-4949-5EC6-CFD3-B186B2EDCA77}
+[2018.01.27-01.45.24:931][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-01.45.25:163][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-01.45.25:813][  0]LocalizationService: Localization service is disabled
+[2018.01.27-01.45.26:361][  0]LogConsoleResponse: Display: 
+[2018.01.27-01.45.26:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-01.45.26:522][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-01.45.26:522][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-01.45.27:397][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.27-01.45.27:431][  0]SourceControl: Source control is disabled
+[2018.01.27-01.45.27:432][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-01.45.27:432][  0]LightingResults: New page: Lighting Build
+[2018.01.27-01.45.27:463][  0]MapCheck: New page: Map Check
+[2018.01.27-01.45.27:463][  0]LightingResults: New page: Lighting Build
+[2018.01.27-01.45.28:168][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-01.45.28:191][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_184.Sphere' 
+[2018.01.27-01.45.28:191][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_184.Sphere' 
+[2018.01.27-01.45.28:191][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_182.Sphere' 
+[2018.01.27-01.45.28:191][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_182.Sphere' 
+[2018.01.27-01.45.28:191][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-01.45.28:206][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-01.45.28:248][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.943ms to complete.
+[2018.01.27-01.45.28:248][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.816
+[2018.01.27-01.45.28:305][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-01.45.28:400][  0]LogCollectionManager: Loaded 0 collections in 0.001995 seconds
+[2018.01.27-01.45.28:480][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.27-01.45.28:480][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.27-01.45.28:480][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.27-01.45.28:480][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.27-01.45.28:489][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2018.01.27-01.45.28:550][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-01.45.28:584][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-01.45.28:616][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-01.45.28:632][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-01.45.28:634][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-01.45.28:639][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-01.45.28:735][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-01.45.28:945][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.27-01.45.28:945][  0]LogLoad: (Engine Initialization) Total time: 18.38 seconds
+[2018.01.27-01.45.28:945][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-01.45.28:945][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-01.45.28:982][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-01.45.29:038][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-01.45.29:051][  1]LogAssetRegistry: Asset discovery search completed in 10.6289 seconds
+[2018.01.27-01.45.29:053][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.27-01.45.29:053][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.01.27-01.45.29:989][ 34]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-01.45.30:052][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-01.45.30:107][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-01.45.30:107][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-01.45.30:108][ 38]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2018, 7:45:30 AM)
+[2018.01.27-01.45.30:108][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-01.45.30:138][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029901s)
+[2018.01.27-01.45.30:139][ 38]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-01.45.30:139][ 38]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2018.01.27-01.45.30:140][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031609s)
+[2018.01.27-01.45.30:161][ 38]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-01.45.30:192][ 38]LogInit: FAudioDevice initialized.
+[2018.01.27-01.45.30:276][ 38]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-01.45.30:280][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_184.Sphere' 
+[2018.01.27-01.45.30:280][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_182.Sphere' 
+[2018.01.27-01.45.30:280][ 38]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.27-04.45.30
+[2018.01.27-01.45.30:281][ 38]LogWorld: Bringing up level for play took: 0.003327
+[2018.01.27-01.45.30:321][ 38]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.27-01.45.30:323][ 38]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.175
+[2018.01.27-01.45.30:324][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-01.45.31:459][101]LogBlueprintUserMessages: [TASK_RotateToFace_C_0] Hello
+[2018.01.27-01.45.36:975][432]LogBlueprintUserMessages: [TASK_RotateToFace_C_0] Hello
+[2018.01.27-01.45.42:491][763]LogBlueprintUserMessages: [TASK_RotateToFace_C_0] Hello
+[2018.01.27-01.45.47:992][ 93]LogBlueprintUserMessages: [TASK_RotateToFace_C_0] Hello
+[2018.01.27-01.45.50:910][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-01.45.50:947][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
