@@ -1,0 +1,1350 @@
+﻿Log file open, 01/28/18 12:15:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1761323822) SRandInit(1761323822).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205759
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -log -d3d10 "D:\Projects\Unreal Projects\GGJ2018\GGJ2018\GGJ2018.uproject"
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-09.15.30:745][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-09.15.30:745][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-09.15.30:764][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.28-09.15.30:764][  0]LogInit: User: Wheatley
+[2018.01.28-09.15.30:765][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-09.15.30:766][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.28-09.15.30:767][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.28-09.15.30:767][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-09.15.30:768][  0]LogMemory: Process Physical Memory: 273.80 MB used, 273.80 MB peak
+[2018.01.28-09.15.30:768][  0]LogMemory: Process Virtual Memory: 276.85 MB used, 276.85 MB peak
+[2018.01.28-09.15.30:769][  0]LogMemory: Physical Memory: 4616.80 MB used,  3491.55 MB free, 8108.36 MB total
+[2018.01.28-09.15.30:769][  0]LogMemory: Virtual Memory: 651.13 MB used,  3491.55 MB free, 134217728.00 MB total
+[2018.01.28-09.15.30:981][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.28-09.15.30:981][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.28-09.15.30:985][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.28-09.15.30:986][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.28-09.15.31:515][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-09.15.31:810][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-09.15.31:832][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 10_0)
+[2018.01.28-09.15.31:832][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.28-09.15.31:839][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 10_0)
+[2018.01.28-09.15.31:839][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.28-09.15.31:841][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 10_0)
+[2018.01.28-09.15.31:841][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-09.15.31:843][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-09.15.31:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-09.15.31:853][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-09.15.31:853][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-09.15.31:854][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.28-09.15.31:855][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.28-09.15.31:855][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.28-09.15.31:856][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:856][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:857][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:857][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:858][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:858][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:859][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:859][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:860][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:860][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:861][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:861][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:864][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:864][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:864][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:865][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-09.15.31:865][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.28-09.15.31:865][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.28-09.15.31:866][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.28-09.15.31:866][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.28-09.15.31:866][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.28-09.15.31:903][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-09.15.31:916][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.28-09.15.31:917][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/11928/).
+[2018.01.28-09.15.31:918][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/6EE9F7CC49CA33BFA751B48DAF5251B7/'.
+[2018.01.28-09.15.31:919][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-09.15.33:018][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-09.15.33:074][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-09.15.33:131][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-09.15.33:186][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-09.15.33:243][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-09.15.33:299][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-09.15.33:355][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-09.15.33:411][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-09.15.33:457][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-09.15.33:510][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-09.15.33:564][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-09.15.33:617][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-09.15.33:673][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-09.15.33:729][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-09.15.33:837][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-09.15.33:837][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-09.15.33:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-09.15.33:932][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-09.15.34:027][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-09.15.34:058][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-09.15.34:113][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-09.15.34:167][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-09.15.34:220][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-09.15.34:275][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-09.15.34:276][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-09.15.34:739][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-09.15.34:854][  0]LogDerivedDataCache: Loaded boot cache 0.11s 75MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-09.15.34:854][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-09.15.34:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-09.15.34:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-09.15.34:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-09.15.34:857][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-09.15.34:880][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-09.15.34:892][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-09.15.34:899][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2018.01.28-09.15.34:900][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-09.15.34:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-09.15.34:901][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-09.15.35:366][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-09.15.35:720][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-09.15.35:760][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-09.15.35:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-09.15.35:761][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-09.15.35:763][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-09.15.35:763][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-09.15.35:794][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.28-09.15.35:981][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.01.28-09.15.36:558][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.038563 seconds
+[2018.01.28-09.15.36:565][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-09.15.36:566][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.28-09.15.36:566][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-09.15.36:617][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-09.15.39:635][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-09.15.39:679][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-09.15.40:378][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-09.15.40:827][  0]SourceControl: Source control is disabled
+[2018.01.28-09.15.40:828][  0]SourceControl: Source control is disabled
+[2018.01.28-09.15.40:884][  0]SourceControl: Source control is disabled
+[2018.01.28-09.15.40:938][  0]SourceControl: Source control is disabled
+[2018.01.28-09.15.41:762][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-09.15.42:033][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-09.15.42:331][  0]LogEngine: Initializing Engine...
+[2018.01.28-09.15.42:334][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-09.15.42:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-09.15.42:607][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-09.15.42:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-09.15.42:742][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.15.42:788][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-09.15.42:872][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-09.15.42:882][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-09.15.42:982][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-09.15.42:982][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={C296BABF-482A-391E-6F2F-84BD5A130381}
+[2018.01.28-09.15.43:109][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-09.15.43:412][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-09.15.44:286][  0]LocalizationService: Localization service is disabled
+[2018.01.28-09.15.44:863][  0]LogConsoleResponse: Display: 
+[2018.01.28-09.15.45:022][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-09.15.45:022][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-09.15.45:024][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.28-09.15.45:024][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-09.15.45:938][  0]SourceControl: Source control is disabled
+[2018.01.28-09.15.45:941][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2018.01.28-09.15.45:941][  0]LightingResults: New page: Lighting Build
+[2018.01.28-09.15.45:974][  0]MapCheck: New page: Map Check
+[2018.01.28-09.15.45:974][  0]LightingResults: New page: Lighting Build
+[2018.01.28-09.15.46:758][  0]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.15.46:768][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.15.46:768][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.15.46:768][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.15.46:769][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.15.46:769][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.15.46:770][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.15.46:770][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.15.46:770][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.15.46:771][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-09.15.46:787][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-09.15.46:832][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.324ms to complete.
+[2018.01.28-09.15.46:833][  0]LogFileHelpers: Loading map 'Level01' took 0.892
+[2018.01.28-09.15.46:896][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-09.15.46:972][  0]LogCollectionManager: Loaded 0 collections in 0.001475 seconds
+[2018.01.28-09.15.47:042][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.28-09.15.47:042][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.28-09.15.47:043][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.28-09.15.47:044][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-09.15.47:053][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2363 classes and 519 folders.
+[2018.01.28-09.15.47:104][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.28-09.15.47:139][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.28-09.15.47:172][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-09.15.47:194][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Plugins/. Error: Не удается найти указанный файл. (0x00000002)
+[2018.01.28-09.15.47:201][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-09.15.47:203][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-09.15.47:208][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-09.15.47:308][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-09.15.47:493][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-09.15.47:493][  0]LogLoad: (Engine Initialization) Total time: 19.46 seconds
+[2018.01.28-09.15.47:494][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-09.15.47:495][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-09.15.47:535][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.28-09.15.47:592][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-09.15.47:610][  1]LogAssetRegistry: Asset discovery search completed in 11.6508 seconds
+[2018.01.28-09.15.47:613][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.28-09.15.47:614][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000158 seconds (updated 0 objects)
+[2018.01.28-09.15.48:543][ 51]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-09.16.02:405][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.01.28-09.16.03:086][921]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-09.16.03:192][921]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-09.16.03:501][921]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-09.16.03:861][921]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.01.28-09.16.04:707][921]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-09.16.06:285][921]LogLinker: Warning: Can't find file '/Game/JAM/Materials/M_SimpleParticle.M_SimpleParticle'
+[2018.01.28-09.16.06:356][921]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2018.01.28-09.16.06:921][921]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-09.16.07:123][922]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-09.16.19:180][596]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.16.23:887][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.16.24:021][874]LogSavePackage: Save=23.00ms
+[2018.01.28-09.16.24:021][874]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOECEB2A9B740372AD6653C4AB986D17990.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.16.24:027][874]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.16.34:140][469]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.01.28-09.16.35:939][514]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.36:046][514]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.28-09.16.36:050][514]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.36:290][514]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.36:312][514]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.40:101][722]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.41:104][780]MaterialEditorStats: Base pass shader: 98 instructions
+[2018.01.28-09.16.41:106][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-09.16.41:107][780]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-09.16.41:107][780]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-09.16.41:773][820]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.42:812][882]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-09.16.42:813][882]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.01.28-09.16.42:815][882]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-09.16.42:815][882]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-09.16.45:643][ 50]LogMaterialEditor: Saving and Compiling material M_SimpleParticle_UNLIT
+[2018.01.28-09.16.46:278][ 50]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.46:323][ 50]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.46:357][ 50]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.46:428][ 50]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.47:192][ 50]TextureStreamingBuild: Display: Compiling optional shaders took 0.773 seconds.
+[2018.01.28-09.16.49:705][ 50]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-09.16.49:747][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_SimpleParticle_UNLIT" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset" SILENT=true
+[2018.01.28-09.16.49:786][ 50]LogSavePackage: Save=20.34ms
+[2018.01.28-09.16.49:786][ 50]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_SimpleParticle_UNLIT140DFB8D47AC9BD155C56EBE1CCC51A2.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset'
+[2018.01.28-09.16.49:791][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset
+[2018.01.28-09.16.49:801][ 50]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-09.16.49:801][ 50]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.01.28-09.16.49:802][ 50]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-09.16.49:802][ 50]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.16.50:850][113]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.50:900][113]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.53:005][219]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.53:037][219]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.54:409][296]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.56:093][396]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.01.28-09.16.56:094][396]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.16.56:095][396]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.16.58:085][515]LogMaterialEditor: Saving and Compiling material M_SimpleParticle_UNLIT
+[2018.01.28-09.16.58:713][515]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.58:753][515]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.58:770][515]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.58:837][515]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.16.59:335][515]TextureStreamingBuild: Display: Compiling optional shaders took 0.507 seconds.
+[2018.01.28-09.17.00:773][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_SimpleParticle_UNLIT" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset" SILENT=true
+[2018.01.28-09.17.00:877][515]LogSavePackage: Save=92.11ms
+[2018.01.28-09.17.00:877][515]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_SimpleParticle_UNLIT7D417F1B423D59BA85E625AF5F49ECBC.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset'
+[2018.01.28-09.17.00:882][515]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset
+[2018.01.28-09.17.12:595][193]LogMaterial: Warning: Material /Game/JAM/Materials/M_SimpleParticle_UNLIT.M_SimpleParticle_UNLIT needed to have new flag set bUsedWithParticleSprites !
+[2018.01.28-09.17.12:601][193]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.17.21:644][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.17.21:750][721]LogSavePackage: Save=93.89ms
+[2018.01.28-09.17.21:750][721]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE5BB4FAF44F392E433E442CB54CCAE694.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.17.21:755][721]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.17.21:759][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_SimpleParticle_UNLIT" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset" SILENT=true
+[2018.01.28-09.17.21:784][721]LogSavePackage: Save=14.57ms
+[2018.01.28-09.17.21:785][721]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_SimpleParticle_UNLIT14DEA2EC430B85DAE99002BDF3C251BD.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset'
+[2018.01.28-09.17.21:790][721]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset
+[2018.01.28-09.17.29:785][192]LogMaterial: Missing cached shader map for material EmissiveTexturedMaterial, compiling. 
+[2018.01.28-09.17.39:704][733]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.17.43:733][960]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.01:241][848]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.01:351][852]LogMaterial: Warning: Material /Game/JAM/Materials/M_SimpleParticle_UNLIT.M_SimpleParticle_UNLIT needed to have new flag set bUsedWithMeshParticles !
+[2018.01.28-09.18.01:355][852]LogMaterial: Missing cached shader map for material M_SimpleParticle_UNLIT, compiling. 
+[2018.01.28-09.18.01:857][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.18.01:957][877]LogSavePackage: Save=83.71ms
+[2018.01.28-09.18.01:958][877]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE087BF541435031673718B7B1FF35ED92.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.18.01:965][877]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.18.01:972][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_SimpleParticle_UNLIT" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset" SILENT=true
+[2018.01.28-09.18.02:012][877]LogSavePackage: Save=18.42ms
+[2018.01.28-09.18.02:013][877]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_SimpleParticle_UNLIT9F9A00964377B02710679AB0ED10451A.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset'
+[2018.01.28-09.18.02:020][877]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_SimpleParticle_UNLIT.uasset
+[2018.01.28-09.18.10:176][332]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.12:521][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.18.12:623][467]LogSavePackage: Save=89.69ms
+[2018.01.28-09.18.12:623][467]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE41D13BE8478693C50FEC61ADF624CBA4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.18.12:628][467]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.18.20:895][950]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.21:362][978]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.22:028][ 18]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.23:828][123]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.24:585][168]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.24:901][187]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.25:400][217]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.30:538][525]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.31:138][561]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.31:521][584]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.33:312][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.18.33:418][688]LogSavePackage: Save=94.52ms
+[2018.01.28-09.18.33:418][688]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE4AABEA65472F4E87351FF2822CC5CF53.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.18.33:424][688]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.18.53:823][397]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.55:808][516]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.18.56:390][551]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.19.04:779][ 54]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.19.07:419][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.19.07:456][209]LogSavePackage: Save=25.83ms
+[2018.01.28-09.19.07:456][209]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOEF24D67A9452FE785B21598B90074B676.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.19.07:461][209]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.19.09:260][313]LogCascade: Non-seeded module ParticleModuleVelocity
+[2018.01.28-09.19.11:761][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.19.11:866][456]LogSavePackage: Save=93.89ms
+[2018.01.28-09.19.11:866][456]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE6D294DC4451BC749A7833AB3730B9A40.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.19.11:871][456]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.19.41:477][ 58]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.41:693][ 58]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.41:709][ 58]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.43:082][120]MaterialEditorStats: Base pass shader: 98 instructions
+[2018.01.28-09.19.43:083][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-09.19.43:084][120]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-09.19.43:084][120]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-09.19.45:083][240]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.45:099][240]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.45:485][260]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2018.01.28-09.19.45:486][260]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-09.19.45:487][260]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.28-09.19.46:603][327]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.46:617][327]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.47:393][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.19.47:495][367]LogSavePackage: Save=96.80ms
+[2018.01.28-09.19.47:495][367]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow4759A4E8496250B4EFD65C9FBBAC0258.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.19.47:501][367]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.19.47:599][373]MaterialEditorStats: Base pass shader without light map: 23 instructions
+[2018.01.28-09.19.47:601][373]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.19.47:602][373]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.19.51:907][629]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.52:829][682]MaterialEditorStats: Base pass shader without light map: 23 instructions
+[2018.01.28-09.19.52:831][682]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.19.52:832][682]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.19.56:003][870]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.58:252][  0]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.19.59:164][ 52]MaterialEditorStats: Base pass shader without light map: 23 instructions
+[2018.01.28-09.19.59:166][ 52]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.19.59:167][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.01:832][209]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.02:860][268]MaterialEditorStats: Base pass shader without light map: 23 instructions
+[2018.01.28-09.20.02:862][268]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.20.02:863][268]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.04:777][381]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.05:664][433]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.07:037][514]MaterialEditorStats: Base pass shader without light map: 23 instructions
+[2018.01.28-09.20.07:038][514]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.01.28-09.20.07:039][514]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.11:551][783]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.11:552][783]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.11:553][783]LogMaterial: 	(Node SphereMask) Arithmetic between types float2 and float3 are undefined
+[2018.01.28-09.20.11:556][783]MaterialEditorStats: Error: [SM4] (Node SphereMask) Arithmetic between types float2 and float3 are undefined
+[2018.01.28-09.20.12:581][843]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.12:582][843]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.12:584][843]LogMaterial: 	(Node SphereMask) Arithmetic between types float2 and float3 are undefined
+[2018.01.28-09.20.17:974][166]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.17:975][166]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.17:977][166]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.17:978][166]MaterialEditorStats: Error: [SM4] (Node SphereMask) Missing input B
+[2018.01.28-09.20.20:056][288]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.20.21:994][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.20.22:022][288]LogSavePackage: Save=9.25ms
+[2018.01.28-09.20.22:022][288]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow86446FE9400E6F4B93CD8C9646798ECE.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.20.22:025][288]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.20.25:623][504]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.25:624][504]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.25:626][504]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.25:957][524]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.25:958][524]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.25:960][524]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.33:095][950]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.33:096][950]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.33:097][950]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.34:175][ 13]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.35:440][ 87]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.20.35:442][ 87]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.35:443][ 87]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.35:443][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.38:395][263]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.38:395][263]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.38:397][263]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.38:398][263]MaterialEditorStats: Error: [SM4] (Node SphereMask) Missing input B
+[2018.01.28-09.20.43:665][576]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.43:666][576]LogMaterial: Warning: /Engine/Transient.M_RadialGlow (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-09.20.43:668][576]LogMaterial: 	(Node SphereMask) Missing input B
+[2018.01.28-09.20.45:058][658]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.46:039][714]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2018.01.28-09.20.46:041][714]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.46:042][714]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.46:042][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.46:667][751]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.47:640][803]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.20.47:642][803]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.47:643][803]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.47:644][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.48:317][843]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.49:320][902]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.20.49:321][902]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.49:322][902]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.49:323][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.51:645][ 41]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.52:633][100]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.20.52:635][100]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.52:636][100]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.52:636][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.56:347][321]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.20.57:385][383]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.20.57:386][383]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.20.57:387][383]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.20.57:388][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.20.59:937][536]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.00:886][592]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.01:879][651]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.01:880][651]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.01:881][651]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.01:882][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.04:288][794]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.21.04:921][794]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.04:957][794]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.04:974][794]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.05:035][794]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RadialGlow, compiling. 
+[2018.01.28-09.21.05:588][794]TextureStreamingBuild: Display: Compiling optional shaders took 0.561 seconds.
+[2018.01.28-09.21.07:091][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.21.07:192][794]LogSavePackage: Save=90.11ms
+[2018.01.28-09.21.07:193][794]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlowBC997CF541C7750E4E5C6BB98C28860E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.21.07:198][794]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.21.08:089][846]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-09.21.08:097][846]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.09:302][915]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.09:303][915]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.09:304][915]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.09:304][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.11:870][ 69]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-09.21.11:878][ 69]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.12:988][134]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.12:989][134]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.12:990][134]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.12:991][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.19:000][492]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.19:989][549]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.19:991][549]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.19:992][549]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.19:992][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.24:182][798]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.25:184][855]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.25:186][855]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.25:187][855]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.25:188][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.30:472][172]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.31:443][228]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.31:444][228]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.31:446][228]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.31:446][228]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.32:286][278]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.33:939][376]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.33:940][376]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.33:941][376]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.33:941][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.36:691][541]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.37:649][598]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.01.28-09.21.37:650][598]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.37:651][598]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.37:651][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.39:450][705]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.21.40:077][705]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.40:116][705]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.40:135][705]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.40:200][705]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RadialGlow, compiling. 
+[2018.01.28-09.21.40:756][705]TextureStreamingBuild: Display: Compiling optional shaders took 0.564 seconds.
+[2018.01.28-09.21.42:282][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.21.42:386][705]LogSavePackage: Save=92.49ms
+[2018.01.28-09.21.42:386][705]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow505501234C74E187BBBE449B3F4C98DA.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.21.42:391][705]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.21.45:141][868]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.46:195][930]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.47:688][ 16]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.48:519][ 65]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.49:890][146]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.50:865][201]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2018.01.28-09.21.50:866][201]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.21.50:867][201]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.21.50:868][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.21.51:400][233]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.21.52:048][233]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.52:096][233]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.52:116][233]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.21.52:181][233]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RadialGlow, compiling. 
+[2018.01.28-09.21.52:817][233]TextureStreamingBuild: Display: Compiling optional shaders took 0.645 seconds.
+[2018.01.28-09.21.54:288][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.21.54:399][233]LogSavePackage: Save=99.50ms
+[2018.01.28-09.21.54:399][233]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow92B3C7D44469E29669169293BC9299F8.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.21.54:404][233]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.21.56:008][328]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.21.56:026][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.21.56:135][328]LogSavePackage: Save=96.99ms
+[2018.01.28-09.21.56:135][328]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow9FECD7944D1FD828EF2E948C84A17103.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.21.56:137][328]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.22.05:560][855]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.05:671][859]LogMaterial: Warning: Material /Game/JAM/Materials/M_RadialGlow.M_RadialGlow needed to have new flag set bUsedWithMeshParticles !
+[2018.01.28-09.22.05:672][859]LogMaterial: Warning: Material /Engine/Transient.M_RadialGlow needed to have new flag set bUsedWithMeshParticles !
+[2018.01.28-09.22.05:675][859]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.22.05:690][859]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.22.06:977][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.22.07:029][931]LogSavePackage: Save=31.87ms
+[2018.01.28-09.22.07:029][931]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE733889CA429F05F1D12668B9E182BE64.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.22.07:035][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.22.07:040][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.22.07:073][931]LogSavePackage: Save=14.12ms
+[2018.01.28-09.22.07:074][931]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow1AD7003249204821780F5195AE9C7470.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.22.07:081][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.22.08:537][ 12]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2018.01.28-09.22.08:538][ 12]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.22.08:540][ 12]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-09.22.08:540][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.22.15:358][391]LogCascade: Non-seeded module ParticleModuleTypeDataMesh
+[2018.01.28-09.22.16:160][435]LogMaterial: Warning: Material /Game/JAM/Materials/M_RadialGlow.M_RadialGlow needed to have new flag set bUsedWithParticleSprites !
+[2018.01.28-09.22.16:161][435]LogMaterial: Warning: Material /Engine/Transient.M_RadialGlow needed to have new flag set bUsedWithParticleSprites !
+[2018.01.28-09.22.16:165][435]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.22.16:181][435]LogMaterial: Missing cached shader map for material M_RadialGlow, compiling. 
+[2018.01.28-09.22.18:094][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.22.18:245][538]LogSavePackage: Save=131.68ms
+[2018.01.28-09.22.18:245][538]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE7F8D43D34C12C63216551194E62DE635.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.22.18:251][538]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.22.18:259][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.22.18:300][538]LogSavePackage: Save=18.62ms
+[2018.01.28-09.22.18:300][538]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlowACF33D7D46215B0ABD7B53827D3DF4E3.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.22.18:308][538]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.22.20:101][645]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2018.01.28-09.22.20:102][645]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.28-09.22.20:104][645]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.28-09.22.20:104][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-09.22.35:983][585]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.39:869][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.22.39:970][815]LogSavePackage: Save=88.53ms
+[2018.01.28-09.22.39:970][815]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE6DC2CA01447FF065B74924A35C34D9A3.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.22.39:976][815]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.22.46:462][201]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.47:795][281]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.50:917][468]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.53:653][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.22.53:761][629]LogSavePackage: Save=96.17ms
+[2018.01.28-09.22.53:761][629]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE9426CF22465868708285EB81E84DC727.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.22.53:766][629]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.22.57:617][851]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.58:383][897]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.22.59:082][939]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.02:371][136]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.04:440][260]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.07:984][472]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.10:150][602]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.14:256][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.23.14:356][845]LogSavePackage: Save=88.06ms
+[2018.01.28-09.23.14:356][845]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE7B8575744F560B14D93FEABFE5E66A48.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.23.14:361][845]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.23.20:567][209]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:584][210]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:600][211]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:617][212]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:634][213]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:694][215]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:742][217]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:826][222]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.20:859][224]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.21:009][233]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.23:432][378]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.25:350][493]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.26:524][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.23.26:630][562]LogSavePackage: Save=93.58ms
+[2018.01.28-09.23.26:630][562]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOE5FB3A8CB4EE61D1C0536F58BAE549DDC.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.23.26:636][562]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.23.36:136][131]LogMaterialEditor: Saving and Compiling material M_RadialGlow
+[2018.01.28-09.23.36:152][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_RadialGlow" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset" SILENT=true
+[2018.01.28-09.23.36:248][131]LogSavePackage: Save=84.62ms
+[2018.01.28-09.23.36:248][131]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_RadialGlow2CDA2DF8473002B28D379D8A985D09B4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset'
+[2018.01.28-09.23.36:250][131]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_RadialGlow.uasset
+[2018.01.28-09.23.46:462][740]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:494][742]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:511][743]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:528][744]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:561][746]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:592][747]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:610][748]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:626][749]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.46:784][756]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.52:870][118]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.55:994][305]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.23.59:840][532]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.02:627][699]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.04:497][811]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.07:567][995]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.10:556][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.24.10:654][171]LogSavePackage: Save=86.13ms
+[2018.01.28-09.24.10:654][171]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOEB2DAB95242F44E156073B7B58528CF7E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.24.10:660][171]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.24.15:136][432]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:139][432]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:153][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:154][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:156][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:158][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:160][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:161][433]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:177][434]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:180][434]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:182][434]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:184][434]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:212][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:215][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:217][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:218][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:220][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:221][435]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:247][436]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:249][436]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:666][459]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:668][459]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:682][460]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:704][461]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.15:738][462]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:742][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:745][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:746][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:748][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:749][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:751][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:752][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:754][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:756][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:758][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:760][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:761][638]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:830][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:832][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:834][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:836][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:837][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:838][642]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:849][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:850][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:852][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:853][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:854][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:855][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:856][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:857][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:858][643]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:875][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:878][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:879][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:881][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:883][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:884][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:887][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:888][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.18:889][644]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:028][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:029][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:031][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:033][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:034][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:035][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:037][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:038][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:040][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:041][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:042][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:044][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:045][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:047][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:048][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:051][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:053][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:054][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:056][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:057][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:058][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:061][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:063][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:064][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:066][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:068][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:071][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:072][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:074][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:075][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:077][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:080][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:081][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:083][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:084][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:085][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:087][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:088][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:091][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:092][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:094][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:095][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:096][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:097][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:098][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:102][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:103][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:104][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:106][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:107][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:108][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:110][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:112][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:113][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:115][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:116][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:117][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:119][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:122][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:123][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:125][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:126][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:127][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:129][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:132][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:133][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:135][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:136][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:137][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:138][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:140][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:143][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:145][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:145][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:147][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:148][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:149][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:152][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:154][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:155][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:156][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:158][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:159][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:161][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:164][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:165][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:166][651]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:176][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:177][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:178][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:180][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:182][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:183][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:185][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:186][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:187][652]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:202][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:204][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:206][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:208][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:209][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:210][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:212][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:215][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:216][653]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:321][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:323][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:325][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:327][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:328][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:330][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:332][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:333][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:334][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:336][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:337][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:338][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:340][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:341][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:344][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:345][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:347][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:348][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:350][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:351][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:354][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:356][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:357][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:358][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:360][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:362][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:364][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:365][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:366][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:368][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:369][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:370][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:373][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:375][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:376][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:377][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:378][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:379][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:380][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:384][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:385][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:386][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:388][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:389][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.19:390][658]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:595][786]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:611][787]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:613][787]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:616][787]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:617][787]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:632][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:635][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:637][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:639][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:641][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:644][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:646][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:648][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:650][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:651][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:654][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:656][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:657][788]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:668][789]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:670][789]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:672][789]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:675][789]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.21:677][789]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.24:586][959]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:179][ 50]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:215][ 52]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:219][ 52]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:220][ 52]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:222][ 52]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:233][ 53]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:235][ 53]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.26:238][ 53]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.39:467][844]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.41:743][980]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.44:902][169]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_0 (/Game/JAM/Particles/FX_CloseRangeAOE.FX_CloseRangeAOE)
+[2018.01.28-09.24.46:095][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Particles/FX_CloseRangeAOE" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset" SILENT=true
+[2018.01.28-09.24.46:209][239]LogSavePackage: Save=102.40ms
+[2018.01.28-09.24.46:209][239]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/FX_CloseRangeAOEE1DEE89D4FB14ADBC7A566A6F89C868C.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset'
+[2018.01.28-09.24.46:215][239]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Particles/FX_CloseRangeAOE.uasset
+[2018.01.28-09.25.12:168][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.25.12:651][752]LogSavePackage: Save=379.13ms
+[2018.01.28-09.25.12:651][752]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss3A2255D748FC26A6A8BE0C8943EBA5D2.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.25.12:657][752]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.25.24:985][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.25.25:408][463]LogSavePackage: Save=410.95ms
+[2018.01.28-09.25.25:408][463]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossA729BB7C4DFD7EF375FDAFA27C790B02.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.25.25:414][463]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.25.25:848][489]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.28-09.25.26:191][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.25.26:193][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.25.26:194][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.25.26:195][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.25.26:195][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.25.26:195][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.25.26:196][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.25.26:197][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.25.26:197][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.25.26:198][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.25.26:199][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.25.26:199][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.25.26:329][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.25.26:331][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.25.26:332][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.25.26:333][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.25.26:333][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.25.26:334][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.25.26:335][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.25.26:336][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.25.26:337][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.25.26:337][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.25.26:338][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.25.26:338][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.25.26:629][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.25.26:630][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.25.26:631][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.25.26:632][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.25.26:633][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.25.26:634][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.25.26:634][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.25.26:635][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.25.26:640][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.25.26:641][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.25.26:642][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.25.26:642][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.25.26:643][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.25.26:643][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.25.26:644][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.25.26:644][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.25.27:059][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.25.27:451][509]LogSavePackage: Save=380.96ms
+[2018.01.28-09.25.27:452][509]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss41A10AA1420FEA0DF6742F8522543C4E.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.25.27:454][509]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.25.27:837][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Maps/Level01" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-09.25.28:501][524]LogSavePackage: Save=616.99ms
+[2018.01.28-09.25.28:501][524]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Level010CBA35E3464A4611F4DE5397908BDC50.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap'
+[2018.01.28-09.25.28:506][524]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap
+[2018.01.28-09.25.28:568][524]LogFileHelpers: Saving map 'Level01' took 0.799
+[2018.01.28-09.25.38:001][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.25.38:386][ 67]LogSavePackage: Save=373.53ms
+[2018.01.28-09.25.38:387][ 67]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBoss5E8CC50142C71F690F287E86CA058D32.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.25.38:392][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.25.43:780][364]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.28-09.25.58:341][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.25.58:741][162]LogSavePackage: Save=388.61ms
+[2018.01.28-09.25.58:741][162]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossCE0F67AE41533F4C24FD2CBFA347AEBD.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.25.58:747][162]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.26.05:034][529]BlueprintLog: New page: Compile A_TestBoss
+[2018.01.28-09.26.05:359][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.05:360][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.05:361][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.05:362][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.05:363][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.05:363][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.05:364][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.05:365][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.05:365][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.05:366][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.05:367][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.05:367][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.05:473][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.26.05:474][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.26.05:475][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.26.05:476][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.26.05:477][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.26.05:477][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.26.05:478][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.26.05:478][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.26.05:478][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.26.05:479][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.26.05:479][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.26.05:480][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.26.05:713][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.05:714][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.05:715][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.05:716][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.05:716][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.05:717][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.05:717][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.05:717][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.05:721][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.26.05:722][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_0.Sphere' 
+[2018.01.28-09.26.05:724][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.26.05:724][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_1.Sphere' 
+[2018.01.28-09.26.05:725][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.26.05:725][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_2.Sphere' 
+[2018.01.28-09.26.05:725][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.26.05:726][529]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_3.Sphere' 
+[2018.01.28-09.26.06:125][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/A_TestBoss" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset" SILENT=true
+[2018.01.28-09.26.06:437][548]LogSavePackage: Save=302.27ms
+[2018.01.28-09.26.06:437][548]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/A_TestBossE75F0B8648172F510BE5CF92C6D2B432.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset'
+[2018.01.28-09.26.06:441][548]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/A_TestBoss.uasset
+[2018.01.28-09.26.06:876][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Maps/Level01" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-09.26.07:319][567]LogSavePackage: Save=411.60ms
+[2018.01.28-09.26.07:319][567]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Level01F538E56742D1552348E10DA52EDCE5C0.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap'
+[2018.01.28-09.26.07:324][567]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap
+[2018.01.28-09.26.07:468][567]LogFileHelpers: Saving map 'Level01' took 0.644
+[2018.01.28-09.26.09:165][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.26.09:259][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.09:263][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.26.09:263][669]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:26:09 PM)
+[2018.01.28-09.26.09:263][669]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.26.09:270][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006951s)
+[2018.01.28-09.26.09:271][669]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.26.09:271][669]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.01.28-09.26.09:272][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.009135s)
+[2018.01.28-09.26.09:298][669]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.26.09:315][669]LogInit: FAudioDevice initialized.
+[2018.01.28-09.26.09:360][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.26.09:362][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.09:362][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.09:363][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.09:363][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.09:364][669]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.26.09
+[2018.01.28-09.26.09:368][669]LogWorld: Bringing up level for play took: 0.007250
+[2018.01.28-09.26.09:403][669]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.28-09.26.09:407][669]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 -0.474
+[2018.01.28-09.26.09:407][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.11:191][775]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=574.88 Y=-171.79 Z=0.00 Location: X=-368.73 Y=-197.33 Z=96.06 Normal: X=-0.57 Y=0.16 Z=-0.81 PenetrationDepth:1.041 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (0 other events since notify)
+[2018.01.28-09.26.13:707][926]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-71.42 Y=-289.66 Z=0.00 Location: X=142.03 Y=-52.90 Z=96.06 Normal: X=0.51 Y=0.60 Z=-0.62 PenetrationDepth:0.000 Actor:A_TestBoss_434 Component:SwordCollider BoneName:None (3 other events since notify)
+[2018.01.28-09.26.16:591][ 99]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-134.70 Y=84.65 Z=0.00 Location: X=-138.97 Y=264.27 Z=96.28 Normal: X=-0.49 Y=0.81 Z=-0.33 PenetrationDepth:28.546 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (5 other events since notify)
+[2018.01.28-09.26.20:824][353]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=56.75 Y=-104.76 Z=0.00 Location: X=-318.04 Y=231.05 Z=96.14 Normal: X=-0.64 Y=0.54 Z=-0.55 PenetrationDepth:2.354 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (2 other events since notify)
+[2018.01.28-09.26.21:874][416]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=1.44 Y=34.10 Z=0.00 Location: X=-318.79 Y=231.64 Z=96.04 Normal: X=-0.83 Y=0.47 Z=-0.30 PenetrationDepth:31.612 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (56 other events since notify)
+[2018.01.28-09.26.27:609][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.27:652][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.28:339][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.26.28:380][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.28:385][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.26.28:385][799]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:26:28 PM)
+[2018.01.28-09.26.28:386][799]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.26.28:395][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008762s)
+[2018.01.28-09.26.28:396][799]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.26.28:396][799]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.01.28-09.26.28:397][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.011259s)
+[2018.01.28-09.26.28:427][799]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.26.28:448][799]LogInit: FAudioDevice initialized.
+[2018.01.28-09.26.28:480][799]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.26.28:483][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.28:484][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.28:485][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.28:485][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.28:486][799]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.26.28
+[2018.01.28-09.26.28:487][799]LogWorld: Bringing up level for play took: 0.005414
+[2018.01.28-09.26.28:491][799]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 0.611
+[2018.01.28-09.26.28:493][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.34:443][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.34:488][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.34:997][182]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.26.35:038][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.35:042][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.26.35:042][182]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:26:35 PM)
+[2018.01.28-09.26.35:043][182]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.26.35:052][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008384s)
+[2018.01.28-09.26.35:052][182]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.26.35:053][182]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.01.28-09.26.35:053][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.010608s)
+[2018.01.28-09.26.35:082][182]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.26.35:102][182]LogInit: FAudioDevice initialized.
+[2018.01.28-09.26.35:136][182]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.26.35:139][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.26.35:139][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.26.35:140][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.26.35:140][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.26.35:141][182]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.26.35
+[2018.01.28-09.26.35:142][182]LogWorld: Bringing up level for play took: 0.005113
+[2018.01.28-09.26.35:147][182]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 -0.734
+[2018.01.28-09.26.35:148][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.26.38:978][411]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-25.63 Y=-350.38 Z=0.00 Location: X=-328.29 Y=-124.11 Z=96.23 Normal: X=-0.15 Y=0.63 Z=-0.76 PenetrationDepth:11.288 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (0 other events since notify)
+[2018.01.28-09.26.55:245][387]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-231.76 Y=170.82 Z=0.00 Location: X=-232.09 Y=62.76 Z=96.29 Normal: X=0.61 Y=0.42 Z=-0.67 PenetrationDepth:4.101 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (9 other events since notify)
+[2018.01.28-09.26.57:363][514]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-282.35 Y=-23.85 Z=0.00 Location: X=-309.13 Y=48.49 Z=96.22 Normal: X=0.01 Y=0.35 Z=-0.94 PenetrationDepth:11.716 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (9 other events since notify)
+[2018.01.28-09.27.02:929][848]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=10.39 Y=-101.87 Z=0.00 Location: X=-258.42 Y=-576.02 Z=96.13 Normal: X=-0.70 Y=0.35 Z=-0.62 PenetrationDepth:31.860 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (16 other events since notify)
+[2018.01.28-09.27.11:214][344]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=29.42 Y=-17.31 Z=0.00 Location: X=-465.07 Y=-183.84 Z=96.50 Normal: X=-0.87 Y=0.04 Z=-0.48 PenetrationDepth:26.189 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (4 other events since notify)
+[2018.01.28-09.27.18:064][755]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=30.69 Y=-14.93 Z=0.00 Location: X=-236.07 Y=-19.40 Z=96.32 Normal: X=-0.66 Y=0.68 Z=-0.32 PenetrationDepth:23.225 Actor:A_TestBoss_434 Component:SwordCollider BoneName:None (17 other events since notify)
+[2018.01.28-09.27.20:981][930]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-1.56 Y=-34.10 Z=0.00 Location: X=-432.42 Y=-280.61 Z=96.69 Normal: X=-0.51 Y=0.09 Z=-0.86 PenetrationDepth:7.658 Actor:A_TestBoss_434 Component:SwordCollider BoneName:None (17 other events since notify)
+[2018.01.28-09.27.24:682][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.24:728][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.35:968][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.27.36:009][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.36:014][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.27.36:015][823]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:27:36 PM)
+[2018.01.28-09.27.36:015][823]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.27.36:024][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008662s)
+[2018.01.28-09.27.36:025][823]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.27.36:025][823]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2018.01.28-09.27.36:026][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.011161s)
+[2018.01.28-09.27.36:056][823]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.27.36:077][823]LogInit: FAudioDevice initialized.
+[2018.01.28-09.27.36:113][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.27.36:116][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.27.36:117][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.27.36:117][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.27.36:118][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.27.36:118][823]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.27.36
+[2018.01.28-09.27.36:119][823]LogWorld: Bringing up level for play took: 0.004763
+[2018.01.28-09.27.36:124][823]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 0.243
+[2018.01.28-09.27.36:125][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.37:062][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.37:107][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.27.38:100][934]LogEditorViewport: Clicking on Actor (LMB): A_TestBoss_C (A_TestBoss)
+[2018.01.28-09.28.05:251][357]BlueprintLog: New page: Compile DEC_InAttackRange
+[2018.01.28-09.28.05:703][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Gameplay/Boss/DEC_InAttackRange" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/DEC_InAttackRange.uasset" SILENT=true
+[2018.01.28-09.28.05:773][373]LogSavePackage: Save=33.82ms
+[2018.01.28-09.28.05:773][373]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/DEC_InAttackRangeBA6599DF4EBF622DF04817B120744F0B.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/DEC_InAttackRange.uasset'
+[2018.01.28-09.28.05:778][373]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Gameplay/Boss/DEC_InAttackRange.uasset
+[2018.01.28-09.28.07:196][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.28.07:247][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.28.07:252][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.28.07:253][457]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:28:07 PM)
+[2018.01.28-09.28.07:253][457]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.28.07:263][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009883s)
+[2018.01.28-09.28.07:265][457]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.28.07:265][457]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2018.01.28-09.28.07:268][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.015186s)
+[2018.01.28-09.28.07:314][457]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.28.07:343][457]LogInit: FAudioDevice initialized.
+[2018.01.28-09.28.07:380][457]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.28.07:383][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.28.07:384][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.28.07:385][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.28.07:386][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.28.07:387][457]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.28.07
+[2018.01.28-09.28.07:389][457]LogWorld: Bringing up level for play took: 0.007711
+[2018.01.28-09.28.07:395][457]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 -0.485
+[2018.01.28-09.28.07:397][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.28.10:781][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.28.10:823][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.28.55:018][150]LogSavePackage: Save=31.57ms
+[2018.01.28-09.28.55:018][150]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonGameMode0D924B35435F04FC225F8AACE94A9F7C.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.28-09.28.55:029][150]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.28-09.29.03:430][635]LogSavePackage: Save=98.35ms
+[2018.01.28-09.29.03:430][635]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonGameModeF03923964DB40D360D527D89455AAA96.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.28-09.29.03:435][635]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.28-09.29.26:106][987]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.01.28-09.29.26:776][  7]LogSavePackage: Save=28.76ms
+[2018.01.28-09.29.26:776][  7]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonGameMode1BC9BFFD412528FD4BA491A30AAE1F06.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.28-09.29.26:780][  7]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.28-09.29.28:420][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.29.28:471][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.29.28:475][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.29.28:475][104]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:29:28 PM)
+[2018.01.28-09.29.28:475][104]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.29.28:482][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006581s)
+[2018.01.28-09.29.28:482][104]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.29.28:483][104]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2018.01.28-09.29.28:484][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.008813s)
+[2018.01.28-09.29.28:511][104]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.29.28:527][104]LogInit: FAudioDevice initialized.
+[2018.01.28-09.29.28:558][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.29.28:561][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.29.28:561][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.29.28:562][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.29.28:562][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.29.28:562][104]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.29.28
+[2018.01.28-09.29.28:563][104]LogWorld: Bringing up level for play took: 0.004050
+[2018.01.28-09.29.28:567][104]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 0.686
+[2018.01.28-09.29.28:567][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.29.32:065][313]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=64.83 Y=-253.83 Z=0.00 Location: X=-175.04 Y=-199.04 Z=96.11 Normal: X=-0.20 Y=-0.35 Z=-0.92 PenetrationDepth:29.752 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (0 other events since notify)
+[2018.01.28-09.29.32:916][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.29.32:960][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.29.59:884][941]LogSavePackage: Save=64.84ms
+[2018.01.28-09.29.59:884][941]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonGameModeDA2B94B3436DD1760384AF8CFE7663C7.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.28-09.29.59:889][941]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.28-09.30.06:493][337]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.01.28-09.30.07:270][356]LogSavePackage: Save=91.12ms
+[2018.01.28-09.30.07:270][356]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/ThirdPersonGameModeD5C71259459D28F0D2BE06B685F4BD31.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.28-09.30.07:276][356]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.28-09.30.08:709][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-09.30.08:767][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.30.08:771][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-09.30.08:772][440]PIE: New page: PIE session: Level01 (Jan 28, 2018, 3:30:08 PM)
+[2018.01.28-09.30.08:772][440]LogPlayLevel: Creating play world package: /Game/JAM/Maps/UEDPIE_0_Level01
+[2018.01.28-09.30.08:784][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009912s)
+[2018.01.28-09.30.08:784][440]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-09.30.08:785][440]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.01.28-09.30.08:786][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JAM/Maps/Level01.Level01 to /Game/JAM/Maps/UEDPIE_0_Level01.Level01 (0.013602s)
+[2018.01.28-09.30.08:829][440]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-09.30.08:849][440]LogInit: FAudioDevice initialized.
+[2018.01.28-09.30.08:882][440]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-09.30.08:884][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.WeakSpot_Hand_GEN_VARIABLE_A_WeakSpot_C_CAT_634.Sphere' 
+[2018.01.28-09.30.08:885][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_451.Sphere' 
+[2018.01.28-09.30.08:886][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_632.Sphere' 
+[2018.01.28-09.30.08:886][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JAM/Maps/UEDPIE_0_Level01.Level01:PersistentLevel.ChildActor_GEN_VARIABLE_A_WeakSpot_C_CAT_663.Sphere' 
+[2018.01.28-09.30.08:887][440]LogWorld: Bringing World /Game/JAM/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2018.01.28-12.30.08
+[2018.01.28-09.30.08:888][440]LogWorld: Bringing up level for play took: 0.005240
+[2018.01.28-09.30.08:892][440]PIE: Play in editor start time for /Game/JAM/Maps/UEDPIE_0_Level01 1.011
+[2018.01.28-09.30.08:894][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.30.11:894][619]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=28.33 Y=-19.04 Z=0.00 Location: X=-257.26 Y=-314.70 Z=96.33 Normal: X=0.28 Y=-0.70 Z=-0.65 PenetrationDepth:34.125 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (0 other events since notify)
+[2018.01.28-09.30.15:427][831]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=408.24 Y=-160.92 Z=0.00 Location: X=-106.77 Y=-161.16 Z=96.38 Normal: X=-0.41 Y=-0.84 Z=0.34 PenetrationDepth:0.122 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_foot_r (10 other events since notify)
+[2018.01.28-09.30.17:644][964]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=464.90 Y=-219.90 Z=0.00 Location: X=-18.02 Y=-235.19 Z=96.24 Normal: X=0.27 Y=-0.50 Z=-0.82 PenetrationDepth:13.860 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (10 other events since notify)
+[2018.01.28-09.30.22:294][243]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-15.55 Y=30.38 Z=0.00 Location: X=0.38 Y=-293.84 Z=96.54 Normal: X=0.70 Y=-0.48 Z=-0.53 PenetrationDepth:22.604 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (20 other events since notify)
+[2018.01.28-09.30.26:861][517]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=503.64 Y=326.10 Z=0.00 Location: X=243.37 Y=-186.69 Z=96.08 Normal: X=0.81 Y=0.29 Z=-0.51 PenetrationDepth:16.316 Actor:A_TestBoss_434 Component:CharacterMesh0 BoneName:b_hand_r (14 other events since notify)
+[2018.01.28-09.30.27:313][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.30.27:356][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JAM/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/JAM/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/JAM/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.01.28-09.30.34:112][914]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2018.01.28-09.30.34:114][914]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

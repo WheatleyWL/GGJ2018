@@ -1,0 +1,1031 @@
+﻿Log file open, 01/28/18 10:16:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2088415654) SRandInit(-2088415654).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192819
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequenceEditor/Binaries/Win64/UE4Editor-ActorSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ActorSequenceEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -log -d3d10 "D:\Projects\Unreal Projects\GGJ2018\GGJ2018\GGJ2018.uproject"
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-07.16.14:531][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-07.16.14:532][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-07.16.14:563][  0]LogInit: Computer: DESKTOP-R47TH6J
+[2018.01.28-07.16.14:563][  0]LogInit: User: Wheatley
+[2018.01.28-07.16.14:565][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-07.16.14:567][  0]LogInit: High frequency timer resolution =2.338347 MHz
+[2018.01.28-07.16.14:568][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.28-07.16.14:568][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-07.16.14:569][  0]LogMemory: Process Physical Memory: 273.95 MB used, 273.95 MB peak
+[2018.01.28-07.16.14:569][  0]LogMemory: Process Virtual Memory: 276.91 MB used, 276.91 MB peak
+[2018.01.28-07.16.14:570][  0]LogMemory: Physical Memory: 4477.00 MB used,  3631.35 MB free, 8108.36 MB total
+[2018.01.28-07.16.14:570][  0]LogMemory: Virtual Memory: 651.13 MB used,  3631.35 MB free, 134217728.00 MB total
+[2018.01.28-07.16.14:875][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.28-07.16.14:875][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.28-07.16.14:881][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.28-07.16.14:882][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.28-07.16.15:492][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-07.16.15:843][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-07.16.15:868][  0]LogD3D11RHI:    0. 'AMD Radeon R7 M265 Series' (Feature Level 10_0)
+[2018.01.28-07.16.15:868][  0]LogD3D11RHI:       2028/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.01.28-07.16.15:877][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 10_0)
+[2018.01.28-07.16.15:877][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.28-07.16.15:879][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 10_0)
+[2018.01.28-07.16.15:879][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-07.16.15:881][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-07.16.15:890][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-07.16.15:891][  0]LogD3D11RHI:     GPU DeviceId: 0x6604 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-07.16.15:891][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-07.16.15:892][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.01.28-07.16.15:893][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.28-07.16.15:894][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.28-07.16.15:894][  0]LogWindows:    3. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:895][  0]LogWindows:    4. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:896][  0]LogWindows:    5. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:896][  0]LogWindows:    6. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:897][  0]LogWindows:    7. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:898][  0]LogWindows:    8. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:900][  0]LogWindows:    9. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:901][  0]LogWindows:    10. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:902][  0]LogWindows:    11. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:902][  0]LogWindows:    12. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:903][  0]LogWindows:    13. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:904][  0]LogWindows:    14. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:905][  0]LogWindows:    15. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:905][  0]LogWindows:    16. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:906][  0]LogWindows:    17. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:907][  0]LogWindows:    18. 'AMD Radeon R7 M265 Series' (P:0 D:0)
+[2018.01.28-07.16.15:908][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.01.28-07.16.15:908][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M265 Series
+[2018.01.28-07.16.15:909][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2018.01.28-07.16.15:912][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2018.01.28-07.16.15:913][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.01.28-07.16.15:952][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-07.16.15:965][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.01.28-07.16.15:966][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Intermediate/Shaders/WorkingDirectory/14680/).
+[2018.01.28-07.16.15:966][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wheatley/AppData/Local/Temp/UnrealShaderWorkingDir/F5A369CD4CACC0E192099792F2B17896/'.
+[2018.01.28-07.16.15:966][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-07.16.17:241][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-07.16.17:297][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-07.16.17:355][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-07.16.17:412][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-07.16.17:469][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-07.16.17:525][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-07.16.17:584][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-07.16.17:641][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-07.16.17:688][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-07.16.17:743][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-07.16.17:797][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-07.16.17:853][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-07.16.17:907][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-07.16.17:961][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-07.16.18:070][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-07.16.18:070][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-07.16.18:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-07.16.18:167][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-07.16.18:268][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-07.16.18:300][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-07.16.18:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-07.16.18:408][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-07.16.18:464][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-07.16.18:521][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-07.16.18:521][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-07.16.19:044][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-07.16.19:179][  0]LogDerivedDataCache: Loaded boot cache 0.13s 75MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-07.16.19:179][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-07.16.19:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-07.16.19:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-07.16.19:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-07.16.19:183][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-07.16.19:207][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-07.16.19:220][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wheatley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-07.16.19:230][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2018.01.28-07.16.19:231][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-07.16.19:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-07.16.19:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-07.16.19:722][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-07.16.20:093][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-07.16.20:139][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-07.16.20:139][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-07.16.20:140][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-07.16.20:141][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-07.16.20:141][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-07.16.20:176][  0]LogNetVersion: GGJ2018 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4219683102)
+[2018.01.28-07.16.20:373][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2018.01.28-07.16.21:002][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.039248 seconds
+[2018.01.28-07.16.21:010][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-07.16.21:010][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.28-07.16.21:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-07.16.21:067][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-07.16.24:141][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-07.16.24:186][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-07.16.24:882][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-07.16.25:339][  0]SourceControl: Source control is disabled
+[2018.01.28-07.16.25:340][  0]SourceControl: Source control is disabled
+[2018.01.28-07.16.25:396][  0]SourceControl: Source control is disabled
+[2018.01.28-07.16.25:451][  0]SourceControl: Source control is disabled
+[2018.01.28-07.16.26:291][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-07.16.26:566][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-07.16.26:870][  0]LogEngine: Initializing Engine...
+[2018.01.28-07.16.26:873][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-07.16.27:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-07.16.27:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-07.16.27:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-07.16.27:281][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-07.16.27:328][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-07.16.33:868][  0]LogDerivedDataCache: Saved boot cache 6.54s 75MB C:/Users/Wheatley/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-07.16.33:876][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-07.16.33:955][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-07.16.33:955][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DBE086E5-4ED0-9DD5-3965-71A31F8F5FB7}
+[2018.01.28-07.16.34:060][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-07.16.34:298][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-07.16.34:977][  0]LocalizationService: Localization service is disabled
+[2018.01.28-07.16.35:545][  0]LogConsoleResponse: Display: 
+[2018.01.28-07.16.35:711][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-07.16.35:712][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-07.16.35:712][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-07.16.36:649][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/' took 0.01s
+[2018.01.28-07.16.36:685][  0]SourceControl: Source control is disabled
+[2018.01.28-07.16.36:686][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2018.01.28-07.16.36:687][  0]LightingResults: New page: Lighting Build
+[2018.01.28-07.16.36:719][  0]MapCheck: New page: Map Check
+[2018.01.28-07.16.36:720][  0]LightingResults: New page: Lighting Build
+[2018.01.28-07.16.37:397][  0]LogAIModule: Creating AISystem for world Level01
+[2018.01.28-07.16.37:399][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-07.16.37:413][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-07.16.37:458][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.439ms to complete.
+[2018.01.28-07.16.37:459][  0]LogFileHelpers: Loading map 'Level01' took 0.773
+[2018.01.28-07.16.37:587][  0]LogCollectionManager: Loaded 0 collections in 0.001534 seconds
+[2018.01.28-07.16.37:655][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/Collections/' took 0.01s
+[2018.01.28-07.16.37:656][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Developers/Wheatley/Collections/' took 0.01s
+[2018.01.28-07.16.37:656][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/GGJ2018/GGJ2018/Content/Collections/' took 0.01s
+[2018.01.28-07.16.37:658][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-07.16.37:667][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2363 classes and 519 folders.
+[2018.01.28-07.16.37:718][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.28-07.16.37:753][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.28-07.16.37:790][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.28-07.16.37:810][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Plugins/. Error: Не удается найти указанный файл. (0x00000002)
+[2018.01.28-07.16.37:816][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-07.16.37:819][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-07.16.37:824][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-07.16.37:924][  0]LogRenderer: Reallocating scene render targets to support 792x396 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-07.16.38:118][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-07.16.38:118][  0]LogLoad: (Engine Initialization) Total time: 26.68 seconds
+[2018.01.28-07.16.38:119][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-07.16.38:120][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-07.16.38:454][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-07.16.38:480][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.28-07.16.38:534][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-07.16.38:804][  1]LogAssetRegistry: Asset discovery search completed in 18.4537 seconds
+[2018.01.28-07.16.38:807][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.28-07.16.38:808][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000159 seconds (updated 0 objects)
+[2018.01.28-07.16.39:462][  3]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-07.18.02:943][484]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.01.28-07.18.06:101][668]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-07.18.06:609][668]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.01.28-07.18.07:506][668]LogLinker: Warning: Can't resolve asset name
+[2018.01.28-07.18.07:928][668]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-07.18.08:461][669]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-07.18.17:734][203]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.01.28-07.18.32:322][754]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Wheatley\Desktop\T_Binary.png)
+[2018.01.28-07.18.32:430][754]LogTexture: Display: Building textures: T_Binary (AutoDXT, 128X256)
+[2018.01.28-07.18.34:191][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/Textures/T_Binary" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset" SILENT=true
+[2018.01.28-07.18.34:206][834]LogSavePackage: Save=11.71ms
+[2018.01.28-07.18.34:206][834]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/T_BinaryFE76613C4BC295AACF6F119CEB2B8103.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset'
+[2018.01.28-07.18.34:213][834]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset
+[2018.01.28-07.18.34:850][869]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-07.18.45:336][491]LogTexture: Display: Building textures: T_Binary (BGRA8, 128X256)
+[2018.01.28-07.18.45:859][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/Textures/T_Binary" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset" SILENT=true
+[2018.01.28-07.18.45:966][520]LogSavePackage: Save=8.23ms
+[2018.01.28-07.18.45:966][520]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/T_BinaryD507CD1B4CF0704991C49A9A64AB03A4.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset'
+[2018.01.28-07.18.45:970][520]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset
+[2018.01.28-07.19.01:730][466]Cmd: TRANSACTION UNDO
+[2018.01.28-07.19.01:730][466]LogEditorTransaction: Undo Edit Texture Group
+[2018.01.28-07.19.02:753][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/Textures/T_Binary" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset" SILENT=true
+[2018.01.28-07.19.02:861][526]LogSavePackage: Save=99.95ms
+[2018.01.28-07.19.02:861][526]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/T_Binary2849C2C04B3D61FE49731E9F9B4C0978.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset'
+[2018.01.28-07.19.02:864][526]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/Textures/T_Binary.uasset
+[2018.01.28-07.19.15:830][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_BinaryRandom" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset" SILENT=true
+[2018.01.28-07.19.15:960][ 39]LogSavePackage: Save=126.19ms
+[2018.01.28-07.19.15:960][ 39]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_BinaryRandomE2529D7F44CC27931C98DFBEC16933A0.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset'
+[2018.01.28-07.19.15:963][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset
+[2018.01.28-07.19.16:742][ 58]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.28-07.19.16:745][ 58]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.17:267][ 58]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.17:283][ 58]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.18:536][121]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.18:553][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.19.24:157][424]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.24:181][424]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.19.25:238][483]MaterialEditorStats: Base pass shader: 98 instructions
+[2018.01.28-07.19.25:238][483]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-07.19.25:239][483]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-07.19.25:239][483]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.19.33:656][983]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.34:866][ 53]MaterialEditorStats: Base pass shader: 98 instructions
+[2018.01.28-07.19.34:867][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-07.19.34:867][ 53]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-07.19.34:867][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.19.36:413][145]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.36:429][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.19.39:580][332]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.39:600][332]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.19.40:722][395]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-07.19.40:723][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.01.28-07.19.40:723][395]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.40:724][395]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-07.19.40:724][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.19.43:172][542]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.43:187][542]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.43:516][559]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2018.01.28-07.19.43:516][559]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-07.19.43:517][559]MaterialEditorStats: Texture samplers: 0/16
+[2018.01.28-07.19.44:436][614]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.44:451][614]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.45:172][655]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.01.28-07.19.45:173][655]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.45:173][655]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.19.45:173][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.19.45:957][702]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.46:677][745]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.01.28-07.19.46:677][745]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.46:677][745]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.19.46:678][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.19.51:391][ 27]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.52:006][ 63]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.52:026][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.01.28-07.19.52:797][107]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.01.28-07.19.52:797][107]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.52:797][107]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.19.52:798][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.19.53:712][161]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.56:611][329]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.57:415][375]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.01.28-07.19.57:415][375]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.57:416][375]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.19.57:416][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.19.58:533][442]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.19.59:871][522]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.01.28-07.19.59:871][522]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.19.59:871][522]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.19.59:872][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.06:633][926]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.06:651][926]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.20.07:408][970]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.01.28-07.20.07:408][970]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.07:409][970]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.07:409][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.08:109][ 12]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.08:846][ 56]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.08:847][ 56]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.08:847][ 56]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.08:847][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.12:747][286]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.13:504][329]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.13:504][329]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.13:504][329]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.13:505][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.17:680][569]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.18:389][609]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.18:390][609]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.18:390][609]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.18:391][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.18:958][643]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.19:979][704]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.19:980][704]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.19:980][704]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.19:980][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.23:067][887]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.23:074][887]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.23:942][936]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.23:943][936]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.23:943][936]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.23:943][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.36:964][714]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.36:971][714]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.37:837][763]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.37:837][763]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.37:838][763]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.37:838][763]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.39:823][882]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.39:830][882]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.42:173][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.42:181][ 13]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.42:195][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.42:204][ 13]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.43:280][ 74]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.43:288][ 74]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.44:343][137]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.44:344][137]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.44:344][137]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.44:345][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.46:786][282]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.46:793][282]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.47:717][334]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.47:724][334]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.48:406][374]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.48:414][374]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.49:215][420]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.49:222][420]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.50:229][477]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.20.50:230][477]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.20.50:230][477]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.20.50:230][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.20.58:514][972]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.58:522][972]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.59:309][ 16]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.59:317][ 16]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.20.59:837][ 46]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.20.59:851][ 46]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.00:493][ 83]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.00:503][ 83]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.01:616][149]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.01:617][149]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.01:617][149]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.01:617][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.06:166][418]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.06:173][418]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.06:187][418]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.06:195][418]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.07:392][486]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.07:393][486]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.07:393][486]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.07:393][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.09:677][623]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.09:684][623]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.10:553][675]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.10:554][675]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.10:555][675]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.10:555][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.12:772][808]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.12:779][808]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.13:634][859]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.13:634][859]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.13:635][859]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.13:635][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.14:276][897]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.14:283][897]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.15:176][948]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.15:176][948]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.15:176][948]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.15:177][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.16:110][  4]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.16:117][  4]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.16:954][ 54]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.16:954][ 54]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.16:954][ 54]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.16:954][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.23:549][449]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.23:557][449]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.24:766][518]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.24:774][518]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.25:648][570]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.25:649][570]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.25:649][570]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.25:649][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.29:172][781]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.29:180][781]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.30:031][829]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.30:032][829]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.30:032][829]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.30:033][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.32:778][993]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.32:785][993]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.35:142][128]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.35:149][128]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.35:163][128]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.35:170][128]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.36:335][193]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.28-07.21.36:342][193]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.37:269][246]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.37:270][246]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.37:270][246]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.37:271][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.37:764][275]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.38:493][315]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.38:493][315]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.38:493][315]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.38:494][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.40:662][443]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.41:693][497]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.42:399][539]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.42:399][539]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.42:399][539]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.42:400][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.47:162][824]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.48:024][873]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.48:797][919]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.48:797][919]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.48:798][919]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.48:799][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.21.48:817][920]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.49:720][972]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.28-07.21.49:728][972]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.21.50:600][ 22]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.21.50:601][ 22]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.21.50:601][ 22]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.21.50:602][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.03:174][774]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.04:900][872]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.05:606][912]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.05:606][912]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.05:606][912]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.05:607][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.06:324][955]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.07:028][997]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.07:028][997]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.07:029][997]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.07:029][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.07:668][ 35]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.07:675][ 35]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.08:533][ 84]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.08:533][ 84]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.08:534][ 84]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.08:534][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.18:485][678]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.18:492][678]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.18:506][678]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.18:513][678]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.19:679][744]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCeil_1, compiling. 
+[2018.01.28-07.22.19:686][744]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.19:687][744]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.19:687][744]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.19:687][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.20:570][797]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.20:578][797]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.21:530][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCeil_1, compiling. 
+[2018.01.28-07.22.21:560][850]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.21:561][850]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.21:561][850]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.21:561][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.29:239][308]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.29:246][308]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.30:109][357]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.30:110][357]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.30:110][357]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.30:110][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.31:194][422]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.31:201][422]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.32:108][475]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.32:109][475]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.32:109][475]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.32:110][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.34:220][601]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.34:228][601]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.35:162][653]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.35:162][653]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.35:163][653]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.35:163][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.36:318][720]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.36:325][720]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.37:281][774]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.37:281][774]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.37:282][774]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.37:282][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.37:442][783]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.37:449][783]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.39:710][912]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.39:717][912]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.39:731][912]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.39:739][912]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.41:402][  8]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.41:403][  8]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.41:403][  8]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.41:403][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.42:371][ 66]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.42:379][ 66]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.42:802][ 91]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.42:810][ 91]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.43:508][132]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.43:519][132]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.44:584][195]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.44:584][195]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.44:584][195]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.44:585][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.44:900][213]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.44:907][213]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.45:814][264]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.45:815][264]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.45:815][264]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.45:816][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.46:634][313]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.46:641][313]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.46:847][325]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.46:857][325]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.47:788][380]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.47:795][380]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.48:828][440]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.48:829][440]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.48:830][440]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.48:830][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.52:674][666]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.52:682][666]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.53:551][715]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.53:551][715]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.53:552][715]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.53:552][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.55:668][842]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.55:675][842]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.56:533][893]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.56:533][893]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.56:533][893]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.56:533][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.22.57:963][978]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.22.57:970][978]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.22.58:857][ 28]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.22.58:857][ 28]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.22.58:858][ 28]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.22.58:858][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.00:487][125]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.00:494][125]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.01:395][176]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.23.01:396][176]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.01:396][176]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.01:396][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.03:197][284]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.03:204][284]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.04:063][334]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.23.04:064][334]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.04:064][334]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.04:064][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.04:932][386]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.04:939][386]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.04:954][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCeil_1, compiling. 
+[2018.01.28-07.23.05:847][438]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.23.05:848][438]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.05:848][438]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.05:848][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.06:532][479]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.06:539][479]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.08:085][571]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.08:093][571]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.09:043][627]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.09:051][627]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.09:838][673]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.09:847][673]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.09:872][673]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.23.11:227][752]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.11:227][752]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.11:227][752]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.11:227][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.13:262][873]LogMaterialEditor: Saving and Compiling material M_BinaryRandom
+[2018.01.28-07.23.13:895][873]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.13:922][873]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.13:984][873]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.14:018][873]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.14:093][873]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BinaryRandom, compiling. 
+[2018.01.28-07.23.14:678][873]TextureStreamingBuild: Display: Compiling optional shaders took 0.595 seconds.
+[2018.01.28-07.23.15:964][873]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-07.23.16:002][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_BinaryRandom" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset" SILENT=true
+[2018.01.28-07.23.16:127][873]LogSavePackage: Save=25.47ms
+[2018.01.28-07.23.16:127][873]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_BinaryRandom7C89C90342814D50185ACB8236BA9567.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset'
+[2018.01.28-07.23.16:131][873]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset
+[2018.01.28-07.23.16:139][873]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.16:139][873]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.01.28-07.23.16:139][873]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.23.16:139][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.18:362][  6]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.28-07.23.18:369][  6]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.19:285][ 57]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.19:286][ 57]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.19:286][ 57]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.19:286][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.22:879][272]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.23:623][314]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.23:623][314]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.23:623][314]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.23:623][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.29:675][675]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.28-07.23.29:683][675]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.30:672][731]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.30:673][731]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.30:673][731]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.30:673][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.39:832][280]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.40:594][322]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.40:597][322]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.40:597][322]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.40:597][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.45:447][612]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.46:193][654]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.46:194][654]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.46:194][654]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.46:194][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.47:545][735]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.48:621][798]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.48:639][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.23.49:556][850]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.23.49:563][850]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.50:481][902]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.50:481][902]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.50:482][902]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.50:482][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.54:146][121]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.23.54:154][121]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.54:172][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.23.55:068][173]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.01.28-07.23.55:068][173]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.55:069][173]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.55:069][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.23.55:401][193]LogEditorTransaction: Undo Break Pin Links
+[2018.01.28-07.23.55:404][193]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.55:426][193]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.23.55:434][193]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.23.55:456][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.23.56:635][255]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.23.56:636][255]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.23.56:636][255]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.23.56:636][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.01:461][544]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.01:469][544]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.02:358][594]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.24.02:358][594]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.02:359][594]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.02:359][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.08:849][982]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.08:857][982]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.09:747][ 35]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.09:747][ 35]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.09:748][ 35]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.09:748][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.12:749][215]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.12:756][215]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.13:704][270]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.24.13:705][270]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.13:705][270]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.13:705][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.27:311][ 84]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.27:319][ 84]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.28:240][136]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.24.28:241][136]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.28:241][136]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.28:241][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.29:175][192]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.29:182][192]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.30:105][247]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.30:105][247]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.30:106][247]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.30:106][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.32:066][364]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.32:074][364]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.33:000][416]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.33:001][416]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.33:001][416]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.33:001][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.42:897][  9]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.42:904][  9]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.43:774][ 57]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.43:775][ 57]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.43:775][ 57]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.43:776][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.50:796][476]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.50:803][476]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.51:985][543]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.51:992][543]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.52:006][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionStaticComponentMaskParameter_0, compiling. 
+[2018.01.28-07.24.52:012][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionStaticComponentMaskParameter_0, compiling. 
+[2018.01.28-07.24.52:050][543]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.52:059][543]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.52:102][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionStaticComponentMaskParameter_0, compiling. 
+[2018.01.28-07.24.53:166][603]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.53:167][603]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.53:167][603]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.53:167][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.55:093][718]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.55:100][718]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.55:446][735]LogEditorTransaction: Undo Material Editor: Convert
+[2018.01.28-07.24.55:451][735]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.55:482][735]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.55:483][735]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_4 (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2018.01.28-07.24.55:483][735]LogMaterial: 	(Node StaticComponentMaskParameter) Missing ComponentMaskParameter input
+[2018.01.28-07.24.55:488][735]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.56:355][781]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.56:355][781]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.56:356][781]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.56:356][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.24.57:481][848]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.24.57:489][848]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.24.58:374][898]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.24.58:374][898]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.24.58:374][898]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.24.58:375][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.10:142][602]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.10:149][602]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.11:015][651]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.25.11:015][651]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.11:016][651]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.11:016][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.30:003][786]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.30:010][786]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.30:954][839]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.01.28-07.25.30:954][839]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.30:955][839]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.30:955][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.31:759][887]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.31:766][887]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.32:344][921]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.32:355][921]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.33:016][959]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.33:024][959]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.33:566][990]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.33:575][990]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.35:024][ 73]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.01.28-07.25.35:025][ 73]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-07.25.35:025][ 73]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.35:795][119]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.35:803][119]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.35:823][119]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.25.36:745][172]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.25.36:745][172]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.36:745][172]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.36:746][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.36:808][175]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.36:815][175]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.37:904][236]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.01.28-07.25.37:904][236]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.37:904][236]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.37:905][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.39:832][351]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.39:839][351]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.40:847][411]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.40:847][411]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.40:847][411]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.40:847][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.42:174][490]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.42:181][490]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.43:155][543]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.43:155][543]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.43:155][543]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.43:156][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.44:171][604]LogMaterialEditor: Saving and Compiling material M_BinaryRandom
+[2018.01.28-07.25.44:815][604]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2018.01.28-07.25.44:841][604]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.44:899][604]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.44:935][604]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.45:001][604]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BinaryRandom, compiling. 
+[2018.01.28-07.25.45:649][604]TextureStreamingBuild: Display: Compiling optional shaders took 0.657 seconds.
+[2018.01.28-07.25.46:979][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_BinaryRandom" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset" SILENT=true
+[2018.01.28-07.25.47:080][604]LogSavePackage: Save=91.63ms
+[2018.01.28-07.25.47:080][604]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_BinaryRandomE29CE6EE4F7FD3F8EF1CB5AD26AC4717.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset'
+[2018.01.28-07.25.47:084][604]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset
+[2018.01.28-07.25.47:090][604]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.47:091][604]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.01.28-07.25.47:091][604]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.25.47:091][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.50:745][823]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.51:502][865]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.51:503][865]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.51:504][865]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.51:504][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.52:765][940]LogMaterialEditor: Saving and Compiling material M_BinaryRandom
+[2018.01.28-07.25.53:412][940]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.53:467][940]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.53:499][940]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.53:562][940]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BinaryRandom, compiling. 
+[2018.01.28-07.25.54:095][940]TextureStreamingBuild: Display: Compiling optional shaders took 0.542 seconds.
+[2018.01.28-07.25.55:408][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_BinaryRandom" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset" SILENT=true
+[2018.01.28-07.25.55:517][940]LogSavePackage: Save=99.63ms
+[2018.01.28-07.25.55:517][940]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_BinaryRandom4B21F3F24229A2B16A7AC0A8CB214E97.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset'
+[2018.01.28-07.25.55:521][940]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset
+[2018.01.28-07.25.55:530][940]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.55:530][940]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.01.28-07.25.55:531][940]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.25.55:531][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.25.58:474][115]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.25.58:610][115]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-07.25.58:697][116]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.01.28-07.25.59:234][148]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.25.59:234][148]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.25.59:235][148]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.25.59:235][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.00:119][201]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.00:139][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.26.00:990][250]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.01:813][299]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2018.01.28-07.26.01:813][299]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.26.01:814][299]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.26.01:814][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.05:211][502]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.05:231][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-07.26.06:019][547]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.26.06:019][547]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.26.06:020][547]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.26.06:020][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.06:082][550]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.06:826][591]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.26.06:827][591]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.26.06:827][591]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.26.06:827][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.07:274][618]LogMaterialEditor: Saving and Compiling material M_BinaryRandom
+[2018.01.28-07.26.07:917][618]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.07:967][618]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.07:998][618]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.08:062][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BinaryRandom, compiling. 
+[2018.01.28-07.26.08:606][618]TextureStreamingBuild: Display: Compiling optional shaders took 0.552 seconds.
+[2018.01.28-07.26.09:898][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JAM/Materials/M_BinaryRandom" FILE="../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset" SILENT=true
+[2018.01.28-07.26.09:932][618]LogSavePackage: Save=24.41ms
+[2018.01.28-07.26.09:932][618]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Saved/M_BinaryRandom7B857C0241921C62FB373CA8DD8D8F5B.tmp' to '../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset'
+[2018.01.28-07.26.09:936][618]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Unreal Projects/GGJ2018/GGJ2018/Content/JAM/Materials/M_BinaryRandom.uasset
+[2018.01.28-07.26.09:944][618]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.26.09:944][618]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.01.28-07.26.09:944][618]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-07.26.09:944][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.14:861][910]LogMaterial: Missing cached shader map for material M_BinaryRandom, compiling. 
+[2018.01.28-07.26.15:596][951]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2018.01.28-07.26.15:597][951]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-07.26.15:597][951]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.28-07.26.15:597][951]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-07.26.17:681][ 68]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2018.01.28-07.26.17:681][ 68]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
